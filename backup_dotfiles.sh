@@ -16,6 +16,8 @@ yadm add color-schemes cinnamon desktop-directories dolphin kwin latte latte-lay
 cd ..
 cd ..
 
+yadm encrypt
+
 yadm add .config/yadm/encrypt
 yadm add .local/share/yadm/archive
 
