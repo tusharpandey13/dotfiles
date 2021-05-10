@@ -1,0 +1,8 @@
+[FileDialogSize]
+eDP1 Height 1080=914
+eDP1 Width 1920=912
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/It's.Always.Sunny.In.Philadelphia.Season.3.DVDRip.XviD-ORPHEUS.torrent,file:$HOME/tmp/qbtplugins/qbit-plugins/darklibria.py,file:$HOME/tmp/qbtplugins/dmhy.py,file:$HOME/tmp/qbtplugins/skytorrents.py,file:$HOME/tmp/qbtplugins/qbtSearchScripts/yourbittorrent.py,file:$HOME/tmp/qbtplugins/qbtSearchScripts/uniondht.py,file:$HOME/tmp/qbtplugins/qbtSearchScripts/torrentgalaxy.py,file:$HOME/tmp/qbtplugins/qbtSearchScripts/solidtorrents.py,file:$HOME/tmp/qbtplugins/qbtSearchScripts/mkvcage.py,file:$HOME/tmp/qbtplugins/qbtSearchScripts/idope.py,file:$HOME/tmp/qbtplugins/qbtSearchScripts/anidex.py,file:$HOME/tmp/qbtplugins/qBittorrent_search_engines/corsaroblu.py,file:$HOME/tmp/qbtplugins/qBittorrent_search_engines/cinecalidad.py,file:$HOME/tmp/qbtplugins/qBittorrent_search_engines/corsaronero.py,file:$HOME/tmp/qbtplugins/qBittorrent_search_engines/yts_am.py,file:$HOME/tmp/qbtplugins/qBittorrent_search_engines/torrentproject.py
+Recent URLs[$e]=file:$HOME/tmp/qbtplugins/,file:$HOME/,file:$HOME/Documents/,file:$HOME/tmp/qbtplugins/qBittorrent_search_engines/,file:$HOME/tmp/qbtplugins/qbtSearchScripts/,file:$HOME/tmp/,file:$HOME/tmp/qbtplugins/qbit-plugins/
+detailViewIconSize=16

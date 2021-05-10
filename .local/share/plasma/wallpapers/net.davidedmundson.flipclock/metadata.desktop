@@ -1,0 +1,17 @@
+[Desktop Entry]
+Encoding=UTF-8
+Keywords=
+Name=FlipClock
+Description=A digital clock styled like an old flip display
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/Wallpaper
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=David Edmundson
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Email=davidedmundson@kde.org
+X-KDE-PluginInfo-License=GPLv2+
+X-KDE-PluginInfo-Name=net.davidedmundson.flipclock
+X-KDE-PluginInfo-Version=
+X-KDE-PluginInfo-Website=
+X-Plasma-MainScript=ui/main.qml

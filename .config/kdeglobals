@@ -1,0 +1,209 @@
+[$Version]
+update_info=filepicker.upd:filepicker-remove-old-previews-entry,fonts_global.upd:Fonts_Global,fonts_global_toolbar.upd:Fonts_Global_Toolbar,kwin.upd:animation-speed,icons_remove_effects.upd:IconsRemoveEffects,style_widgetstyle_default_breeze.upd:StyleWidgetStyleDefaultBreeze
+
+[ColorEffects:Disabled]
+ChangeSelectionColor=
+Color=56,56,56
+ColorAmount=0
+ColorEffect=0
+ContrastAmount=0.65
+ContrastEffect=1
+Enable=
+IntensityAmount=0.1
+IntensityEffect=2
+
+[ColorEffects:Inactive]
+ChangeSelectionColor=true
+Color=112,111,110
+ColorAmount=0.025
+ColorEffect=2
+ContrastAmount=0.1
+ContrastEffect=2
+Enable=false
+IntensityAmount=0
+IntensityEffect=0
+
+[Colors:Button]
+BackgroundAlternate=189,195,199
+BackgroundNormal=255,255,255
+DecorationFocus=49,91,239
+DecorationHover=83,143,255
+ForegroundActive=61,174,233
+ForegroundInactive=120,120,120
+ForegroundLink=41,128,185
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=36,36,36
+ForegroundPositive=39,174,96
+ForegroundVisited=127,140,141
+
+[Colors:Complementary]
+BackgroundAlternate=66,66,66
+BackgroundNormal=51,51,51
+DecorationFocus=30,146,255
+DecorationHover=61,174,230
+ForegroundActive=49,91,239
+ForegroundInactive=120,120,120
+ForegroundLink=49,91,239
+ForegroundNegative=231,76,60
+ForegroundNeutral=253,188,75
+ForegroundNormal=239,240,241
+ForegroundPositive=46,204,113
+ForegroundVisited=120,120,120
+
+[Colors:Selection]
+BackgroundAlternate=74,124,239
+BackgroundNormal=49,91,239
+DecorationFocus=255,255,255
+DecorationHover=83,143,255
+ForegroundActive=252,252,252
+ForegroundInactive=135,163,239
+ForegroundLink=253,188,75
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=255,255,255
+ForegroundPositive=39,174,96
+ForegroundVisited=127,160,239
+
+[Colors:Tooltip]
+BackgroundAlternate=77,77,77
+BackgroundNormal=36,36,36
+DecorationFocus=49,91,239
+DecorationHover=83,143,255
+ForegroundActive=61,174,233
+ForegroundInactive=120,120,120
+ForegroundLink=41,128,185
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=222,222,222
+ForegroundPositive=39,174,96
+ForegroundVisited=127,140,141
+
+[Colors:View]
+BackgroundAlternate=239,239,239
+BackgroundNormal=255,255,255
+DecorationFocus=49,91,239
+DecorationHover=83,143,255
+ForegroundActive=49,91,239
+ForegroundInactive=120,120,120
+ForegroundLink=49,91,239
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=36,36,36
+ForegroundPositive=39,174,96
+ForegroundVisited=127,140,141
+
+[Colors:Window]
+BackgroundAlternate=238,238,238
+BackgroundNormal=245,245,245
+DecorationFocus=49,91,239
+DecorationHover=83,143,255
+ForegroundActive=61,174,233
+ForegroundInactive=120,120,120
+ForegroundLink=41,128,185
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=36,36,36
+ForegroundPositive=39,174,96
+ForegroundVisited=127,140,141
+
+[DesktopIcons]
+Size=48
+
+[DialogIcons]
+Size=48
+
+[DirSelect Dialog]
+DirSelectDialog Size=892,644
+History Items[$e]=file:$HOME/t/learn/books,file:$HOME/t/win2,file:$HOME/t/win2/setup,file:$HOME/t/win2/Inside.No.9--S01-S02-S03-S04--BBC-720p-w.subs-x265-HEVC,file:$HOME/t/v/s/fargos3,file:$HOME/t/v/out,file:$HOME/.cache,file:$HOME/.config/,file:$HOME/src,file:$HOME/.npm/,file:$HOME/t/win2/Inside.No.9--S01-S02-S03-S04--BBC-720p-w.subs-x265-HEVC,file:$HOME/t/win2/xd,file:$HOME/t/win2,file:$HOME/tmp/tmpdesktop,file:$HOME/tmp/r,file:$HOME/Downloads,file:$HOME/t/music,file:$HOME/t/music,file:$HOME/t/music,file:$HOME/t/music/old,file:$HOME/t/music/new songs,file:$HOME/t/win2,file:$HOME/t/win2,file:$HOME/t/win2/Inside.No.9--S01-S02-S03-S04--BBC-720p-w.subs-x265-HEVC,file:$HOME/t/win2,file:$HOME/Downloads,file:$HOME/w,file:$HOME/w,file:$HOME/tmp/tmpdesktop,file:$HOME/tmp/desktop_link/Desktop,file:$HOME,file:$HOME/t/v/s,file:$HOME/t/music,file:$HOME/t/music,file:$HOME/Downloads,file:$HOME/t/music,file:$HOME/projects/others/tmp/pwipBackend
+
+[Emoticons]
+emoticonsTheme=GoogleEmojiComplete
+parseMode=1
+
+[General]
+BrowserApplication=chrm.desktop
+ColorScheme=McMojaveLight
+Name=Breeze Dark
+TerminalApplication=kitty
+XftAntialias=true
+XftHintStyle=hintfull
+XftSubPixel=rgb
+dbfile=/home/tushar/.mozilla/firefox/6naeyaek.default-1555237167305/places.sqlite
+fixed=Hasklig,12,-1,5,50,0,0,0,0,0
+font=Segoe UI,12.5,-1,5,50,0,0,0,0,0
+menuFont=Segoe UI,12,-1,5,50,0,0,0,0,0
+shadeSortColumn=true
+smallestReadableFont=Segoe UI,10,-1,5,50,0,0,0,0,0
+toolBarFont=Segoe UI,12,-1,5,50,0,0,0,0,0
+widgetStyle=Breeze
+
+[Icons]
+Theme=Newaita
+
+[KDE]
+ColorScheme=Breeze
+LookAndFeelPackage=org.kde.breezedark.desktop
+ShowDeleteCommand=true
+ShowIconsInMenuItems=true
+SingleClick=false
+contrast=4
+widgetStyle=Lightly
+
+[KFileDialog Settings]
+Allow Expansion=false
+Automatically select filename extension=true
+Breadcrumb Navigation=false
+Decoration position=2
+LocationCombo Completionmode=5
+PathCombo Completionmode=5
+Show Bookmarks=false
+Show Full Path=false
+Show Inline Previews=true
+Show Preview=false
+Show Speedbar=true
+Show hidden files=false
+Sort by=Date
+Sort directories first=true
+Sort reversed=true
+Speedbar Width=198
+View Style=Detail
+
+[KScreen]
+ScaleFactor=1
+ScreenScaleFactors=eDP1=1;HDMI1=1;VIRTUAL1=1;
+
+[KShortcutsDialog Settings]
+Dialog Size=828,702
+
+[MainToolbarIcons]
+Size=32
+
+[PreviewSettings]
+MaximumRemoteSize=0
+
+[QtQuickRendererSettings]
+RenderLoop=threaded
+SceneGraphBackend=opengl
+
+[Shortcuts]
+Help=
+
+[SmallIcons]
+Size=32
+
+[Toolbar style]
+ToolButtonStyle=TextBesideIcon
+ToolButtonStyleOtherToolbars=TextBesideIcon
+
+[ToolbarIcons]
+Size=32
+
+[WM]
+activeBackground=245,245,245
+activeBlend=86,86,86
+activeFont=Segoe UI,12.5,-1,5,50,0,0,0,0,0
+activeForeground=66,66,66
+inactiveBackground=238,238,238
+inactiveBlend=102,102,102
+inactiveForeground=120,120,120

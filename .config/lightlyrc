@@ -1,0 +1,17 @@
+[Common]
+CornerRadius=2
+ShadowSize=ShadowMedium
+
+[Style]
+AnimationsDuration=300
+DolphinSidebarOpacity=90
+MenuItemDrawStrongFocus=false
+MnemonicsMode=MN_ALWAYS
+TabDrawHighlight=true
+TransparentDolphinView=false
+UnifiedTabBarKonsole=true
+
+[Windeco]
+AnimationsDuration=300
+DrawBackgroundGradient=false
+DrawSizeGrip=true

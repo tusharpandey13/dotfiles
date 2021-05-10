@@ -1,0 +1,33 @@
+[$Version]
+update_info=spectacle_newConfig.upd:spectacle-new-config
+
+[General]
+alwaysRememberRegion=false
+autoSaveImage=true
+last-saved-to[$e]=$HOME/Pictures
+printKeyActionRunning=0
+rememberLastRectangularRegion=true
+showMagnifier=false
+useLightMaskColour=false
+useReleaseToCapture=false
+
+[GuiConfig]
+captureDelay=0
+captureMode=5
+includeDecorations=true
+includePointer=true
+onClickChecked=true
+window-position=524,143
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Desktop/Screenshot_20190208_231513.png,file:$HOME/Desktop/Screenshot_20190322_151724.png,file:$HOME/Pictures/Screenshot_20190221_215912.png
+Recent URLs[$e]=file:$HOME/Downloads/
+
+[Save]
+compressionQuality=90
+copySaveLocation=false
+defaultSaveLocation=file:///home/tushar/ss/
+lastSaveAsLocation=file:///home/tushar/Desktop/Screenshot_20190322_151724.png
+lastSaveLocation=file:///home/tushar/ss/Screenshot_20210504_224457.png
+lastUsedSaveMode=1
+saveFilenameFormat=Screenshot_%Y%M%D_%H%m%S

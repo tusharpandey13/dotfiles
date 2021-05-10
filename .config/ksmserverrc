@@ -1,0 +1,22 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[General]
+confirmLogout=false
+loginMode=emptySession
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=10d5e7e3cb000159887323400000019170002
+clientId2=10d5e7e3cb000159887323500000019170003
+count=2
+program1=/usr/bin/telegram-desktop
+program2=pulseaudio
+restartCommand1=/usr/bin/telegram-desktop,-session,10d5e7e3cb000159887323400000019170002_1599016400_267388
+restartCommand2=
+restartStyleHint1=0
+restartStyleHint2=0
+userId1=tushar
+userId2=tushar

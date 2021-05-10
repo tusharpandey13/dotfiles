@@ -1,0 +1,135 @@
+Height 1080=683
+Height 900=593
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAwAAAAAAAACwAAADvPwCAAAAAvsAAAAQAGkAbgBmAG8ARABvAGMAawAAAAAwAAADvAAAAAoBAAAD+wAAABYAZgBvAGwAZABlAHIAcwBEAG8AYwBrAAAAADAAAAO8AAAACgEAAAMAAAABAAAAwAAAA7L8AgAAAAH7AAAAFABwAGwAYQBjAGUAcwBEAG8AYwBrAQAAADoAAAOyAAAAXQEAAAMAAAADAAADwAAAAb/8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAAAAADwAAAAAoBAAADAAAC8QAAA7IAAAAEAAAABAAAAAgAAAAI/AAAAAIAAAACAAAAAAAAAAIAAAABAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAA==
+Width 1600=806
+Width 1920=960
+eDP1 Height 1080=1004
+eDP1 Height 1920x1080=1004
+eDP1 Height 864=803
+eDP1 Width 1536=885
+eDP1 Width 1920=990
+eDP1 Width 1920x1080=946
+eDP1 XPosition=339
+eDP1 XPosition 1920x1080=426
+eDP1 YPosition=41
+eDP1 YPosition 1920x1080=41
+
+[CompactMode]
+FontWeight=50
+PreviewSize=16
+
+[Desktop Entry]
+DefaultProfile=Profile 6.profile
+
+[DetailsMode]
+FontWeight=50
+IconSize=32
+PreviewSize=32
+
+[DownloadDialog Settings]
+eDP1 Height 1080=666
+eDP1 Width 1920=903
+
+[Favorite Profiles]
+Favorites=
+
+[General]
+BrowseThroughArchives=true
+ConfirmClosingMultipleTabs=false
+GlobalViewProps=false
+OpenExternallyCalledFolderInNewTab=false
+Version=200
+ViewPropsTimestamp=2018,11,20,21,36,10
+
+[IconsMode]
+FontWeight=50
+IconSize=80
+PreviewSize=256
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Desktop/,file:$HOME/Desktop/
+Recent URLs[$e]=file:$HOME/tmp/desktop_link/
+
+[KPropertiesDialog]
+Height 1080=571
+Height 864=616
+Height 900=552
+Width 1536=494
+Width 1600=449
+Width 1920=570
+eDP1 Height 1080=702
+eDP1 Height 1920x1080=709
+eDP1 Height 864=616
+eDP1 Width 1536=494
+eDP1 Width 1920=615
+eDP1 Width 1920x1080=590
+
+[MainWindow]
+Height 1080=689
+Height 333=303
+Height 480=443
+Height 500=469
+Height 831=510
+Height 864=803
+Height 900=611
+MenuBar=Disabled
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAC2AAADtPwCAAAAAvsAAAAQAGkAbgBmAG8ARABvAGMAawAAAAA2AAADtAAAABABAAAJ+wAAABYAZgBvAGwAZABlAHIAcwBEAG8AYwBrAAAAADoAAAOyAAAAEAEAAAkAAAABAAAAwAAAAhf8AgAAAAH7AAAAFABwAGwAYQBjAGUAcwBEAG8AYwBrAQAAADYAAAIXAAAAYwEAAAkAAAADAAADwAAAAZz8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawEAAAAAAAADwAAAAMkBAAAJAAAC/wAAAhcAAAAEAAAABAAAAAgAAAAI/AAAAAIAAAACAAAAAAAAAAIAAAABAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled
+Width 1477=811
+Width 1536=876
+Width 1600=787
+Width 1920=1079
+Width 2336=640
+Width 533=532
+Width 640=640
+Width 667=665
+Window-Maximized 1080x2336=true
+Window-Maximized 1536x864=true
+eDP1 Height 1080=1004
+eDP1 Height 1920x1080=1002
+eDP1 Height 864=803
+eDP1 Width 1536=885
+eDP1 Width 1920=960
+eDP1 Width 1920x1080=960
+eDP1 XPosition=184
+eDP1 XPosition 1920x1080=0
+eDP1 YPosition=41
+eDP1 YPosition 1920x1080=43
+
+[MainWindow][Toolbar mainToolBar]
+ToolButtonStyle=IconOnly
+
+[Notification Messages]
+ConfirmDelete=true
+
+[Open-with settings]
+CompletionMode=1
+History=sub,subl,mpv,wps,shee,gwe,su,chr,SUB,mouse,ark,call,mou,gwen,image
+
+[PlacesPanel]
+IconSize=32
+
+[PreviewSettings]
+Plugins=ebookthumbnail,directorythumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,windowsimagethumbnail,svgthumbnail
+
+[SettingsDialog]
+Height 1080=542
+Height 900=455
+Width 1600=540
+Width 1920=686
+eDP1 Height 1080=585
+eDP1 Height 1920x1080=669
+eDP1 Width 1920=767
+eDP1 Width 1920x1080=997
+
+[Toolbar mainToolBar]
+IconSize=32
+ToolButtonStyle=IconOnly
+
+[ViewPropertiesDialog]
+Height 1080=648
+Height 864=350
+Width 1536=417
+Width 1920=482

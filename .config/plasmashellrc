@@ -1,0 +1,193 @@
+[ActionsWidget]
+ColumnState=AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgsAAAACAQAAAQAAAAAAAAAAAAAAAH3/////AAAAgQAAAAAAAAACAAAA+gAAAAEAAAAAAAABEQAAAAEAAAAAAAAD6AAAAABk
+
+[ConfigDialog]
+Height 1080=719
+Width 1920=1014
+
+[DownloadDialog Settings]
+Height 1080=721
+Width 1920=1278
+
+[FileDialogSize]
+Height 1080=599
+Width 1920=906
+eDP1 Height 1080=599
+eDP1 Height 1920x1080=599
+eDP1 Width 1920=912
+eDP1 Width 1920x1080=916
+
+[General]
+Number of Actions=0
+
+[KFileDialog Settings]
+Recent Files[$e]=wg_1807231917_7245321/1531951242885.jpg,file:$HOME/ss/Screenshot_20210202_221331.png,file:$HOME/w/08_gettyimages-466990737_resized.jpg,file:$HOME/w/07_gettyimages-969671974_resized.jpg,file:$HOME/w/07 gow5_marcus_theme_3840_x_2160.jpg,file:$HOME/w/06_gettyimages-624690854_resized.jpg,file:$HOME/w/06 gow5_jd_theme_3840_x_2160.jpg,file:$HOME/w/05_gettyimages-147503241_resized.jpg,file:$HOME/w/05 gow5_del_theme_3840_x_2160.jpg,file:$HOME/w/04_gettyimages-939130910_resized.jpg,file:$HOME/w/04 gow5_scorpion_theme_3840_x_2160.jpg,file:$HOME/w/03_gettyimages-910112716_resized.jpg,file:$HOME/w/03 gow5_swarm_theme_3840_x_2160.jpg,file:$HOME/w/02_gettyimages-155142846_resized.jpg,file:$HOME/w/02 gow5_bound_theme_3840_x_2160.jpg,file:$HOME/w/01_gettyimages-168324851_resized.jpg
+Recent URLs[$e]=file:$HOME/ss/,file:$HOME/rice/dotfiles/wallpapers/,file:$HOME/w/,file:$HOME/
+detailViewIconSize=16
+iconViewIconSize=100
+
+[KPropertiesDialog]
+eDP1 Height 1920x1080=654
+eDP1 Width 1920x1080=513
+
+[PlasmaRunnerManager]
+LaunchCounts=
+pluginWhiteList=desktopsessions,services,places,PowerDevil,calculator,unitconverter,shell,bookmarks,recentdocuments,locations,baloosearch
+
+[PlasmaTransientsConfig]
+PreloadWeight=36
+
+[PlasmaViews][Panel 2][Defaults]
+thickness=52
+
+[PlasmaViews][Panel 2][Horizontal1920]
+thickness=52
+
+[PlasmaViews][Panel 22]
+panelVisibility=1
+
+[PlasmaViews][Panel 22][Defaults]
+maxLength=184
+minLength=178
+thickness=36
+
+[PlasmaViews][Panel 22][Horizontal1920]
+maxLength=184
+minLength=178
+thickness=36
+
+[PlasmaViews][Panel 23]
+alignment=132
+
+[PlasmaViews][Panel 23][Defaults]
+maxLength=794
+minLength=550
+thickness=52
+
+[PlasmaViews][Panel 23][Horizontal1920]
+maxLength=794
+minLength=550
+thickness=52
+
+[PlasmaViews][Panel 25]
+alignment=132
+panelVisibility=3
+
+[PlasmaViews][Panel 25][Defaults]
+maxLength=0
+minLength=0
+offset=0
+thickness=0
+
+[PlasmaViews][Panel 25][Horizontal1920]
+maxLength=0
+minLength=0
+offset=0
+thickness=0
+
+[PlasmaViews][Panel 25][Vertical1080]
+maxLength=152
+minLength=152
+thickness=26
+
+[PlasmaViews][Panel 3]
+alignment=2
+panelVisibility=2
+
+[PlasmaViews][Panel 3][Defaults]
+maxLength=784
+minLength=307
+offset=0
+thickness=44
+
+[PlasmaViews][Panel 3][Horizontal1920]
+maxLength=784
+minLength=307
+offset=0
+thickness=44
+
+[PlasmaViews][Panel 30][Defaults]
+thickness=39
+
+[PlasmaViews][Panel 30][Horizontal1920]
+thickness=39
+
+[PlasmaViews][Panel 40][Defaults]
+thickness=39
+
+[PlasmaViews][Panel 40][Horizontal1920]
+thickness=39
+
+[PlasmaViews][Panel 43]
+alignment=1
+panelVisibility=1
+
+[PlasmaViews][Panel 43][Defaults]
+maxLength=785
+minLength=82
+thickness=34
+
+[PlasmaViews][Panel 43][Horizontal1920]
+maxLength=785
+minLength=82
+thickness=34
+
+[PlasmaViews][Panel 43][Vertical1080]
+thickness=52
+
+[PlasmaViews][Panel 44][Defaults]
+thickness=52
+
+[PlasmaViews][Panel 44][Vertical1080]
+thickness=52
+
+[PlasmaViews][Panel 51]
+alignment=132
+
+[PlasmaViews][Panel 51][Defaults]
+maxLength=446
+minLength=152
+offset=0
+thickness=30
+
+[PlasmaViews][Panel 51][Horizontal1920]
+maxLength=446
+minLength=152
+offset=0
+thickness=30
+
+[PlasmaViews][Panel 51][Vertical1080]
+thickness=36
+
+[PlasmaViews][Panel 53]
+alignment=1
+
+[PlasmaViews][Panel 53][Defaults]
+thickness=42
+
+[PlasmaViews][Panel 53][Horizontal1920]
+thickness=42
+
+[PlasmaViews][Panel 64]
+panelVisibility=0
+
+[PlasmaViews][Panel 64][Defaults]
+maxLength=624
+minLength=624
+thickness=26
+
+[PlasmaViews][Panel 64][Horizontal1920]
+maxLength=624
+minLength=624
+thickness=26
+
+[PlasmaViews][Panel 64][Vertical1080]
+thickness=52
+
+[ScreenConnectors]
+0=eDP1
+1=:0.1
+2=VIRTUAL1
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/maintain_existing_desktop_icon_sizes.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/containmentactions_middlebutton.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/systemloadviewer_systemmonitor.js

@@ -1,0 +1,1 @@
+/home/tushar/startpolybar.sh

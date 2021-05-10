@@ -1,0 +1,12 @@
+[Common]
+ButtonIconStyle=StyleOxygen
+ShadowStrength=191
+
+[Style]
+TabBarDrawCenteredTabs=true
+
+[Windeco]
+BoldButtonIcons=BoldIconsBold
+ButtonSpacingLeft=6
+CornerRadius=1.5
+DrawSizeGrip=true

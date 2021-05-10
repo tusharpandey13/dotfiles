@@ -1,0 +1,63 @@
+[Common]
+ShadowStrength=191
+
+[Style]
+MenuItemDrawStrongFocus=false
+MenuOpacity=98
+MnemonicsMode=MN_ALWAYS
+ScrollBarAddLineButtons=2
+TabBarDrawCenteredTabs=true
+
+[Windeco]
+AnimationsDuration=300
+ButtonSize=ButtonLarge
+DrawBackgroundGradient=false
+DrawSizeGrip=true
+
+[Windeco Exception 0]
+BorderSize=0
+Enabled=true
+ExceptionPattern=code-oss
+ExceptionType=0
+HideTitleBar=true
+Mask=0
+
+[Windeco Exception 1]
+BorderSize=0
+Enabled=true
+ExceptionPattern=Deadbeef
+ExceptionType=0
+HideTitleBar=true
+Mask=0
+
+[Windeco Exception 2]
+BorderSize=0
+Enabled=true
+ExceptionPattern=Chromium
+ExceptionType=0
+HideTitleBar=true
+Mask=0
+
+[Windeco Exception 3]
+BorderSize=0
+Enabled=true
+ExceptionPattern=kitty
+ExceptionType=0
+HideTitleBar=false
+Mask=0
+
+[Windeco Exception 4]
+BorderSize=0
+Enabled=true
+ExceptionPattern=Vivaldi-stable
+ExceptionType=0
+HideTitleBar=true
+Mask=0
+
+[Windeco Exception 5]
+BorderSize=0
+Enabled=false
+ExceptionPattern=okular
+ExceptionType=0
+HideTitleBar=true
+Mask=0

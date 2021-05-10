@@ -1,0 +1,53 @@
+[ConfigDialog]
+eDP1 Height 1920x1080=297
+eDP1 Width 1920x1080=341
+
+[DownloadDialog Settings]
+Height 1080=562
+Height 864=531
+Width 1536=700
+Width 1920=700
+eDP1 Height 1080=738
+eDP1 Width 1920=1397
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/startgala.sh,file:$HOME/start.sh,file:$HOME/startpolybar.sh,file:$HOME/rice/dotfiles/wallpapers/aura.jpg
+Recent URLs[$e]=file:$HOME/Downloads/
+detailViewIconSize=16
+iconViewIconSize=100
+
+[KPropertiesDialog]
+Height 864=487
+Width 1536=438
+eDP1 Height 1080=560
+eDP1 Width 1920=504
+
+[MainWindow]
+Height 1080=760
+Height 1536=755
+Height 864=756
+Height 901=793
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABgUAAANrAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1536=1204
+Width 1601=1230
+Width 1920=1624
+Width 864=1223
+eDP1 Height 1080=700
+eDP1 Height 1920x1080=875
+eDP1 Height 864=751
+eDP1 Width 1536=1204
+eDP1 Width 1920=1389
+eDP1 Width 1920x1080=1541
+eDP1 XPosition=257
+eDP1 XPosition 1920x1080=126
+eDP1 YPosition=144
+eDP1 YPosition 1920x1080=96
+
+[Open-with settings]
+CompletionMode=1
+History=chr,sub,mous,mouse,polybar base
+
+[PlasmaRunnerManager]
+LaunchCounts=

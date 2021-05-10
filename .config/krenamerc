@@ -1,0 +1,66 @@
+[ExtHistoryComboEXTENSION_CUSTOM_TEMPLATE]
+CompletionList=
+HistoryList=
+
+[ExtHistoryComboEXTENSION_TEMPLATE]
+CompletionList=$:1
+HistoryList=$
+
+[ExtHistoryComboFILENAME_CUSTOM_TEMPLATE]
+CompletionList=bicepcurl_down_image_:1,bicepcurl_up_image_:1,dbpress_up_image_:1,dbpress_down_image_:1
+HistoryList=dbpress_down_image_,dbpress_up_image_,bicepcurl_up_image_,bicepcurl_down_image_
+
+[ExtHistoryComboFILENAME_TEMPLATE]
+CompletionList=bicepcurl_down_image_#{1}:1,bicepcurl_up_image_#{1}:1,dbpress_up_image_#{1}:1,dbpress_down_image_#{1}:1
+HistoryList=dbpress_down_image_#{1},dbpress_up_image_#{1},bicepcurl_up_image_#{1},bicepcurl_down_image_#{1}
+
+[ExtHistoryComboPREVIX_CUSTOM_TEMPLATE]
+CompletionList=
+HistoryList=
+
+[ExtHistoryComboSUFFIX_CUSTOM_TEMPLATE]
+CompletionList=
+HistoryList=
+
+[GUISettings]
+Advanced=false
+Column0=230
+Column1=539
+ExtensionSplitDot=0
+ExtensionSplitMode=1
+FileListSorting=0
+FileListSortingCustomMode=0
+FileListSortingCustomToken=creationdate;yyyyMMddHHmm
+ImagePreview2=true
+ImagePreviewName2=true
+StartIndex=1
+Stepping=1
+firststart4=false
+
+[KFileDialog Settings]
+Recent Files[$e]=bicepcurl_down_33.jpg,file:$HOME/src/py/rep_counter/out/dbpress_down/dbpress_down_224.jpg,file:$HOME/src/py/rep_counter/out/dbpress_down/dbpress_down_234.jpg,file:$HOME/src/py/rep_counter/out/dbpress_down/dbpress_down_244.jpg,file:$HOME/src/py/rep_counter/out/dbpress_down/dbpress_down_254.jpg,file:$HOME/src/py/rep_counter/out/dbpress_down/dbpress_down_264.jpg,file:$HOME/src/py/rep_counter/out/dbpress_down/dbpress_down_274.jpg,file:$HOME/src/py/rep_counter/out/dbpress_down/dbpress_down_284.jpg,file:$HOME/src/py/rep_counter/out/dbpress_down/dbpress_down_294.jpg,file:$HOME/src/py/rep_counter/out/dbpress_down/dbpress_down_304.jpg,file:$HOME/src/py/rep_counter/out/dbpress_down/dbpress_down_314.jpg,file:$HOME/src/py/rep_counter/out/dbpress_down/dbpress_down_324.jpg,file:$HOME/src/py/rep_counter/out/dbpress_down/dbpress_down_334.jpg,file:$HOME/src/py/rep_counter/out/dbpress_down/dbpress_down_344.jpg,file:$HOME/src/py/rep_counter/out/dbpress_down/dbpress_down_354.jpg,file:$HOME/src/py/rep_counter/out/dbpress_down/dbpress_down_364.jpg
+Recent URLs[$e]=file:$HOME/src/py/rep_counter/out/bicepcurl_up/,file:$HOME/src/py/rep_counter/out/bicepcurl_down/,file:$HOME/Documents/,file:$HOME/,file:$HOME/src/py/rep_counter/out/dbpress_up/,file:$HOME/src/py/rep_counter/out/dbpress_down/
+detailViewIconSize=16
+
+[KRenameWindowSettings]
+RestorePositionForNextInstance=false
+eDP1 Height 1920x1080=751
+eDP1 Width 1920x1080=932
+eDP1 XPosition 1920x1080=354
+eDP1 YPosition 1920x1080=329
+
+[PluginSettings]
+JavaScriptDefinitions=
+JavaScriptVariableNames=
+JavaScriptVariableTypes=
+JavaScriptVariableValues=
+
+[TokenHelpDialog]
+Column0=143
+Column1=621
+Column2=304
+Geometry=\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x01m\x00\x00\x00e\x00\x00\x07\x0e\x00\x00\x03H\x00\x00\x01m\x00\x00\x00\x90\x00\x00\x07\x0e\x00\x00\x03H\x00\x00\x00\x00\x00\x00\x00\x00\x07\x80\x00\x00\x01m\x00\x00\x00\x90\x00\x00\x07\x0e\x00\x00\x03H
+LastSelectedCategory=
+Preview=false
+RecentTokens=
+Splitter=310,1099

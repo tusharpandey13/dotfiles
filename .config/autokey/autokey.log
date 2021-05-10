@@ -1,0 +1,94 @@
+2018-10-02 21:23:49,013 INFO - root - Initialising application
+2018-10-02 21:23:49,044 INFO - root - Initialise global hotkeys
+2018-10-02 21:23:49,045 INFO - config-manager - No configuration found - creating new one
+2018-10-02 21:23:49,068 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2018-10-02 21:23:49,070 INFO - config-manager - Persisting configuration
+2018-10-02 21:23:49,070 INFO - config-manager - Finished persisting configuration - no errors
+2018-10-02 21:23:49,071 INFO - service - Starting service
+2018-10-02 21:23:49,200 INFO - interface - XRecord interface thread starting
+2018-10-02 21:23:49,202 INFO - service - Service now marked as running
+2018-10-02 21:23:49,311 INFO - root - Displaying configuration window
+2018-10-02 21:23:50,127 INFO - root - Entering main()
+2018-10-02 21:24:36,759 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2018-10-02 21:24:36,769 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2018-10-02 21:24:36,774 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2018-10-02 21:24:36,780 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2018-10-02 21:26:15,268 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2018-10-02 21:26:15,269 INFO - config-manager - Persisting configuration
+2018-10-02 21:26:15,270 INFO - config-manager - Backing up existing config file
+2018-10-02 21:26:15,272 INFO - config-manager - Finished persisting configuration - no errors
+2018-10-02 23:23:57,253 INFO - root - Displaying configuration window
+2018-10-02 23:27:25,659 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2018-10-02 23:27:25,660 INFO - config-manager - Persisting configuration
+2018-10-02 23:27:25,661 INFO - config-manager - Backing up existing config file
+2018-10-02 23:27:25,664 INFO - config-manager - Finished persisting configuration - no errors
+2018-10-02 23:27:51,831 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2018-10-02 23:27:51,831 INFO - config-manager - Persisting configuration
+2018-10-02 23:27:51,831 INFO - config-manager - Backing up existing config file
+2018-10-02 23:27:51,834 INFO - config-manager - Finished persisting configuration - no errors
+2018-10-02 23:28:18,013 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2018-10-02 23:28:18,014 INFO - config-manager - Persisting configuration
+2018-10-02 23:28:18,014 INFO - config-manager - Backing up existing config file
+2018-10-02 23:28:18,017 INFO - config-manager - Finished persisting configuration - no errors
+2018-10-02 23:29:47,042 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2018-10-02 23:29:49,497 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2018-10-02 23:29:49,497 INFO - config-manager - Persisting configuration
+2018-10-02 23:29:49,498 INFO - config-manager - Backing up existing config file
+2018-10-02 23:29:49,502 INFO - config-manager - Finished persisting configuration - no errors
+2018-10-02 23:30:19,791 ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 454, in execute
+    exec script.code in scope
+  File "<string>", line 2, in <module>
+NameError: name 'xfce4' is not defined
+2018-10-02 23:30:21,934 ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 454, in execute
+    exec script.code in scope
+  File "<string>", line 2, in <module>
+NameError: name 'xfce4' is not defined
+2018-10-02 23:30:36,499 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2018-10-02 23:32:37,567 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2018-10-02 23:33:21,670 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2018-10-02 23:34:04,298 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2018-10-02 23:34:04,299 INFO - config-manager - Persisting configuration
+2018-10-02 23:34:04,299 INFO - config-manager - Backing up existing config file
+2018-10-02 23:34:04,300 INFO - config-manager - Finished persisting configuration - no errors
+2018-10-02 23:34:48,512 INFO - root - Shutting down
+2018-10-02 23:34:48,513 INFO - service - Service shutting down
+2018-10-02 23:34:48,799 INFO - config-manager - Persisting configuration
+2018-10-02 23:34:48,799 INFO - config-manager - Backing up existing config file
+2018-10-02 23:34:48,799 INFO - config-manager - Finished persisting configuration - no errors
+2018-10-02 23:34:49,014 INFO - inotify - Shutting down file monitor

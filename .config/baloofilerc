@@ -1,0 +1,11 @@
+[Basic Settings]
+Indexing-Enabled=false
+
+[General]
+dbVersion=2
+exclude filters=*.gb,confdefs.h,*.omf,*.fna,.git,CMakeCache.txt,*.vm*,po,confstat,*.pc,*.o,lost+found,*.po,*.map,*.ini,moc_*.cpp,*.fasta,CVS,.moc,_darcs,.hg,.histfile.*,*.pyo,*.vdi,*.elc,*.rej,*.img,.npm,.obj,.yarn-cache,.svn,config.status,*.moc,*.m4,*.gmo,*.orig,*.faa,*.loT,.xsession-errors*,*.vhd,*.a,CTestTestfile.cmake,*.gbff,vbox.log,*.fastq,CMakeTmpQmake,nbproject,CMakeTmp,*.part,*.sql,*.fq,*.qrc,*.vhdx,*.nvram,*.rcore,*.swap,*.aux,qrc_*.cpp,*.so,*.vbox*,*.sql.gz,__pycache__,*.db,CMakeFiles,.bzr,*.qcow2,ui_*.h,lzo,*.la,*.gcode,*.qmlc,*.tmp,*.csproj,*.class,.uic,conftest,*.vmdk,.pch,core-dumps,libtool,Makefile.am,.yarn,*.lo,*.init,*.jsc,node_modules,*~,*.pyc,cmake_install.cmake,node_packages,autom4te,litmain.sh
+exclude filters version=5
+exclude folders[$e]=/var/lib/snapd/snap/gtk-common-themes/1313/,/var/lib/snapd/snap/core/7713/,/var/lib/snapd/snap/olivia/33/,/var/lib/snapd/snap/android-studio/77/,/var/lib/snapd/snap/core18/1192/,/var/lib/snapd/snap/core/7270/
+first run=true
+folders[$e]=$HOME/
+only basic indexing=false

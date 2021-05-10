@@ -1,0 +1,8 @@
+# GIMP gimp-handle-transform-tool options
+
+(type image)
+(composited-preview yes)
+(preview-linked yes)
+(synchronous-preview yes)
+
+# end of gimp-handle-transform-tool options

@@ -1,0 +1,22 @@
+[$Version]
+update_info=delete_cursor_old_default_size.upd:DeleteCursorOldDefaultSize,kcminputrc_repeat.upd:kcminputrc_migrate_repeat_value,kcminputrc_fix_botched_5_21_0.upd:kcminputrc_fix_botched_5_21_0_pre,kcminputrc_fix_botched_5_21_0.upd:kcminputrc_fix_botched_5_21_0,kcminputrc_repeat.upd:kcminputrc_migrate_key_repeat
+
+[Keyboard]
+KeyRepeat=repeat
+NumLock=2
+RepeatDelay=314
+RepeatRate=25
+
+[Libinput][1267][12375][ELAN1300:00 04F3:3057 Touchpad]
+ClickMethod=2
+NaturalScroll=true
+PointerAcceleration=0.000
+ScrollFactor=7
+ScrollMethod=1
+TapToClick=true
+
+[Mouse]
+XLbInptAccelProfileFlat=false
+XLbInptMiddleEmulation=true
+XLbInptPointerAcceleration=0.2
+cursorTheme=McMojave-cursors

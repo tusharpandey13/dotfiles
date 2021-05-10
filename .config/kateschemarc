@@ -1,0 +1,49 @@
+[$Version]
+update_info=fonts_kate.upd:Plasma_Fonts_Kate
+
+[Breeze Dark]
+dummy=prevent-empty-group
+
+[KDE]
+dummy=prevent-empty-group
+
+[Normal]
+dummy=prevent-empty-group
+
+[Printing]
+dummy=prevent-empty-group
+
+[Solarized (dark)]
+Color Background[$d]
+Color Code Folding[$d]
+Color Current Line Number=199,186,153
+Color Highlighted Bracket[$d]
+Color Highlighted Line=16,16,16
+Color Icon Bar[$d]
+Color Indentation Line[$d]
+Color Line Number=74,74,74
+Color MarkType 1[$d]
+Color MarkType 2[$d]
+Color MarkType 3[$d]
+Color MarkType 4[$d]
+Color MarkType 5[$d]
+Color MarkType 6[$d]
+Color MarkType 7[$d]
+Color Modified Lines=255,170,0
+Color Replace Highlight=11,123,10
+Color Saved Lines=0,120,204
+Color Search Highlight=255,85,127
+Color Selection=227,227,227
+Color Separator[$d]
+Color Spelling Mistake Line[$d]
+Color Tab Marker[$d]
+Color Template Background[$d]
+Color Template Editable Placeholder[$d]
+Color Template Focused Editable Placeholder[$d]
+Color Template Not Editable Placeholder[$d]
+Color Word Wrap Marker[$d]
+Font=SauceCodePro Nerd Font,13,-1,5,50,0,0,0,0,0
+dummy=prevent-empty-group
+
+[Solarized (light)]
+dummy=prevent-empty-group

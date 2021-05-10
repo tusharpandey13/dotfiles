@@ -1,0 +1,8 @@
+[Actions]
+EnableMagicMimeActions=false
+
+[General]
+IgnoreSelection=true
+MaxClipItems=999
+TimeoutForActionPopups=1
+Version=5.19.5

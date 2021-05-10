@@ -1,0 +1,11 @@
+[FileDialogSize]
+Height 1080=629
+Width 1920=902
+
+[KFileDialog Settings]
+Recent Files[$e]=screen-capture.oga,file:///usr/share/sounds/freedesktop/stereo/screen-capture.oga
+Recent URLs[$e]=file:///usr/share/sounds/freedesktop/stereo/
+detailViewIconSize=0
+
+[PlasmaRunnerManager]
+LaunchCounts=

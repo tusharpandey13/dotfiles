@@ -1,0 +1,4 @@
+[KFileDialog Settings]
+Recent Files[$e]=file:///usr/bin/qmake,file:$HOME/projects/gltest/gltest.pro
+Recent URLs[$e]=file:///usr/bin/,file:$HOME/projects/gltest/,file:$HOME/projects/
+detailViewIconSize=16

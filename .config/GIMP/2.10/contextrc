@@ -1,0 +1,15 @@
+# GIMP user context
+
+(tool "gimp-dodge-burn-tool")
+(paint-info "gimp-dodge-burn")
+(foreground (color-rgb 0.20000000000000001 0.20000000000000001 0.20000000000000001))
+(brush "2. Block 01")
+(dynamics "Dynamics Off")
+(mybrush "100% Opaque")
+(pattern "Pine")
+(gradient "FG to BG (RGB)")
+(palette "Color History")
+(font "Bitter")
+(tool-preset "Core Pointer")
+
+# end of user context

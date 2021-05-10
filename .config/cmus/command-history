@@ -1,0 +1,35 @@
+bind -f common m toggle aaa_mode
+bind -f common y toggle aaa_mode
+bind -f common toggle aaa_mode
+set resume=true
+set continue=true
+clear
+save
+a ~/t/music
+bind -f common U shell ~/update_cmus.sh
+bind -f common u shell ~/update_cmus.sh
+bind common ` search-next
+set lib_sort=albumartist date album discnumber tracknumber title filename play_count
+bind common ? search-next
+bind common P search-next
+bind common f3 search-next
+bind common F search-next
+set follow=true
+bind -f common b player-prev
+bind -f common o toggle play_sorted
+bind -f common p player-pause
+bind -f common n player-next
+set format_playlist_va= %3n. %t (%a)%= %-21%A %y %d %{?X!=0?%3X ?    }
+set format_playlist= %3n. %t%= %-21%a %y %d %{?X!=0?%3X ?    }
+set format_playlist_va= %3n. %-21%A %t (%a)%= %y %d %{?X!=0?%3X ?    }
+set format_playlist= %3n. %-21%a %t%= %y %d %{?X!=0?%3X ?    }
+set format_playlist= %-21%a %3n. %t%= %y %d %{?X!=0?%3X ?    }
+set format_playlist= %-21%a %3n. %t%= %y %d %2{?X!=0?%3X ?    }
+set format_statusline= %{status} %{?show_playback_position?%{position} %{?duration?/ %{duration} }?%{?duration?%{duration} }} %{?bpm>0?at %{bpm} BPM }%{?volume>=0?vol: %{?lvolume!=rvolume?%{lvolume},%{rvolume} ?%{volume} }}%{?stream?buf: %{buffer} }%{?show_current_bitrate & bitrate>=0? %{bitrate} kbps }%=%{?repeat_current?repeat current?%{?play_library?%{playlist_mode} from %{?play_sorted?sorted }library?playlist}} | %1{continue}%1{follow}%1{repeat}%1{shuffle} 
+set format_statusline= %{status} %{?show_playback_position?%{position} %{?duration?/ %{duration} }?%{?duration?%{duration} }}- %{total} %{?bpm>0?at %{bpm} BPM }%{?volume>=0?vol: %{?lvolume!=rvolume?%{lvolume},%{rvolume} ?%{volume} }}%{?stream?buf: %{buffer} }%{?show_current_bitrate & bitrate>=0? %{bitrate} kbps }%=%{?repeat_current?repeat current?%{?play_library?%{playlist_mode} from %{?play_sorted?sorted }library?playlist}} | %1{continue}%1{follow}%1{repeat}%1{shuffle} 
+set show_all_tracks=true
+set show_all_tracks=false
+set show_remaining_time=false
+s
+colorscheme tomorrow
+set color_titleline_bg=

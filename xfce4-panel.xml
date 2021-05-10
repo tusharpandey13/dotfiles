@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-panel" version="1.0">
+  <property name="configver" type="int" value="2"/>
+  <property name="panels" type="array">
+    <value type="int" value="1"/>
+    <value type="int" value="2"/>
+    <property name="panel-1" type="empty">
+      <property name="position" type="string" value="p=6;x=0;y=0"/>
+      <property name="length" type="uint" value="100"/>
+      <property name="position-locked" type="bool" value="true"/>
+      <property name="size" type="uint" value="35"/>
+      <property name="plugin-ids" type="array">
+        <value type="int" value="23"/>
+        <value type="int" value="7"/>
+        <value type="int" value="3"/>
+        <value type="int" value="15"/>
+        <value type="int" value="20"/>
+        <value type="int" value="24"/>
+        <value type="int" value="4"/>
+        <value type="int" value="8"/>
+        <value type="int" value="2"/>
+        <value type="int" value="9"/>
+        <value type="int" value="14"/>
+        <value type="int" value="6"/>
+        <value type="int" value="10"/>
+        <value type="int" value="16"/>
+        <value type="int" value="11"/>
+        <value type="int" value="17"/>
+        <value type="int" value="12"/>
+        <value type="int" value="5"/>
+        <value type="int" value="18"/>
+        <value type="int" value="25"/>
+      </property>
+      <property name="disable-struts" type="bool" value="false"/>
+      <property name="autohide-behavior" type="uint" value="0"/>
+      <property name="background-style" type="uint" value="1"/>
+      <property name="background-alpha" type="uint" value="65"/>
+      <property name="background-color" type="array">
+        <value type="uint" value="0"/>
+        <value type="uint" value="0"/>
+        <value type="uint" value="0"/>
+        <value type="uint" value="65535"/>
+      </property>
+      <property name="length-adjust" type="bool" value="true"/>
+      <property name="background-rgba" type="array">
+        <value type="double" value="0.168627"/>
+        <value type="double" value="0.180392"/>
+        <value type="double" value="0.215686"/>
+        <value type="double" value="0.526690"/>
+      </property>
+      <property name="mode" type="uint" value="0"/>
+    </property>
+    <property name="panel-2" type="empty">
+      <property name="position" type="string" value="p=8;x=96;y=1052"/>
+      <property name="size" type="uint" value="35"/>
+      <property name="length" type="uint" value="100"/>
+      <property name="background-style" type="uint" value="1"/>
+      <property name="background-rgba" type="array">
+        <value type="double" value="0.168627"/>
+        <value type="double" value="0.180392"/>
+        <value type="double" value="0.215686"/>
+        <value type="double" value="0.000000"/>
+      </property>
+      <property name="plugin-ids" type="array">
+        <value type="int" value="13"/>
+        <value type="int" value="22"/>
+        <value type="int" value="21"/>
+        <value type="int" value="26"/>
+        <value type="int" value="33"/>
+        <value type="int" value="27"/>
+        <value type="int" value="28"/>
+        <value type="int" value="29"/>
+        <value type="int" value="30"/>
+        <value type="int" value="31"/>
+        <value type="int" value="32"/>
+      </property>
+    </property>
+  </property>
+  <property name="plugins" type="empty">
+    <property name="plugin-2" type="string" value="actions"/>
+    <property name="plugin-3" type="string" value="tasklist"/>
+    <property name="plugin-15" type="string" value="separator">
+      <property name="expand" type="bool" value="true"/>
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-4" type="string" value="pager">
+      <property name="rows" type="uint" value="1"/>
+      <property name="miniature-view" type="bool" value="false"/>
+    </property>
+    <property name="plugin-5" type="string" value="clock">
+      <property name="mode" type="uint" value="2"/>
+      <property name="show-military" type="bool" value="true"/>
+      <property name="flash-separators" type="bool" value="true"/>
+      <property name="show-meridiem" type="bool" value="false"/>
+      <property name="show-seconds" type="bool" value="false"/>
+      <property name="digital-format" type="string" value="%I:%M %p"/>
+    </property>
+    <property name="plugin-6" type="string" value="systray">
+      <property name="names-visible" type="array">
+        <value type="string" value="task manager"/>
+        <value type="string" value="qmmp"/>
+        <value type="string" value="thunar"/>
+        <value type="string" value="networkmanager applet"/>
+        <value type="string" value="redshift-gtk"/>
+        <value type="string" value="deadbeef"/>
+        <value type="string" value="vlc"/>
+        <value type="string" value="qbittorrent"/>
+      </property>
+      <property name="names-hidden" type="array">
+        <value type="string" value="albert"/>
+        <value type="string" value="xfce4-power-manager"/>
+      </property>
+      <property name="show-frame" type="bool" value="false"/>
+      <property name="names-ordered" type="array">
+        <value type="string" value="clipman"/>
+        <value type="string" value="xnoise"/>
+        <value type="string" value="synapse"/>
+        <value type="string" value="notes"/>
+        <value type="string" value="whatsapp-nativefier"/>
+        <value type="string" value="telegramdesktop"/>
+        <value type="string" value="parole"/>
+        <value type="string" value="vlc"/>
+        <value type="string" value="qbittorrent"/>
+        <value type="string" value="vivaldi-stable"/>
+        <value type="string" value="qmmp"/>
+        <value type="string" value="redshift-gtk"/>
+        <value type="string" value="task manager"/>
+        <value type="string" value="thunar"/>
+        <value type="string" value="albert"/>
+        <value type="string" value="networkmanager applet"/>
+      </property>
+    </property>
+    <property name="plugin-16" type="string" value="pulseaudio">
+      <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
+      <property name="mpris-players" type="string" value="chromium.instance10825;chromium.instance114999;chromium.instance11770;chromium.instance12076;chromium.instance12290;chromium.instance12946;chromium.instance13218;chromium.instance135335;chromium.instance13699;chromium.instance13705;chromium.instance1463;chromium.instance1465;chromium.instance14828;chromium.instance1486;chromium.instance1513;chromium.instance1522;chromium.instance1613;chromium.instance1635;chromium.instance1654;chromium.instance1666;chromium.instance1673;chromium.instance1684;chromium.instance1728;chromium.instance1734;chromium.instance1735;chromium.instance1744;chromium.instance1764;chromium.instance1803;chromium.instance18326;chromium.instance1833;chromium.instance1843;chromium.instance1854;chromium.instance18716;chromium.instance1881;chromium.instance1893;chromium.instance1901;chromium.instance1920;chromium.instance192549;chromium.instance19370;chromium.instance194131;chromium.instance19695;chromium.instance2006;chromium.instance2052;chromium.instance2086;chromium.instance2097;chromium.instance209858;chromium.instance2104;chromium.instance2114;chromium.instance213350;chromium.instance21771;chromium.instance22158;chromium.instance23991;chromium.instance243174;chromium.instance24436;chromium.instance27016;chromium.instance28273;chromium.instance2930;chromium.instance2990;chromium.instance30194;chromium.instance30326;chromium.instance33297;chromium.instance3495;chromium.instance35398;chromium.instance364702;chromium.instance3973;chromium.instance4074;chromium.instance44099;chromium.instance4569;chromium.instance46025;chromium.instance4791;chromium.instance4800;chromium.instance48403;chromium.instance48441;chromium.instance5113;chromium.instance5546;chromium.instance5741;chromium.instance5770;chromium.instance5782;chromium.instance62538;chromium.instance63082;chromium.instance7022;chromium.instance7379;chromium.instance77564;chromium.instance8118;chromium.instance8311;chromium.instance8498;chromium.instance85764;chromium.instance8741;chromium.instance9037;chromium.instance91504;chromium.instance9241;chromium.instance9711;chromium.instance9803;parole;qmmp;vlc;vlc.instance15805;vlc.instance71913;xnoise"/>
+      <property name="enable-wnck" type="bool" value="true"/>
+    </property>
+    <property name="plugin-17" type="string" value="power-manager-plugin"/>
+    <property name="plugin-7" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-8" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-9" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-10" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-11" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-12" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-14" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-18" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-20" type="string" value="eyes"/>
+    <property name="plugin-23" type="string" value="whiskermenu"/>
+    <property name="plugin-24" type="string" value="separator">
+      <property name="expand" type="bool" value="true"/>
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-25" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-13" type="string" value="directorymenu">
+      <property name="base-directory" type="string" value="/home/tushar"/>
+    </property>
+    <property name="plugin-21" type="string" value="actions"/>
+    <property name="plugin-22" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-26" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-27" type="string" value="separator"/>
+    <property name="plugin-28" type="string" value="separator"/>
+    <property name="plugin-29" type="string" value="separator"/>
+    <property name="plugin-30" type="string" value="separator"/>
+    <property name="plugin-31" type="string" value="separator"/>
+    <property name="plugin-32" type="string" value="separator"/>
+    <property name="plugin-33" type="string" value="xfce4-clipman-plugin"/>
+  </property>
+</channel>

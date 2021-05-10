@@ -1,0 +1,52 @@
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/map.svg,file:$HOME/map.svg
+Recent URLs[$e]=file:$HOME/
+detailViewIconSize=16
+
+[filelight_part]
+antialias=true
+contrast=75
+minFontPitch=7
+scanAcrossMounts=false
+scanRemoteMounts=false
+scanRemovableMedia=false
+scheme=0
+showSmallFiles=false
+skipList[$e]=/dev/,/proc/,/sys/,/root/,$HOME/.npm/,$HOME/src,$HOME/.config/,$HOME/.cache
+varyLabelFontSizes=true
+
+[general]
+File1[$e]=$HOME/t/v/s/The_X_Files/s2/
+File2[$e]=$HOME/t/v/s/The_X_Files/
+File3[$e]=$HOME/t/v/s/
+File4[$e]=$HOME/t/v/
+File5[$e]=$HOME/t/
+File6[$e]=$HOME/
+File7[$e]=$HOME/Android/
+File8[$e]=$HOME/Android/Sdk/
+Name1[$e]=
+Name2[$e]=
+Name3[$e]=
+Name4[$e]=
+Name5[$e]=
+Name6[$e]=
+Name7[$e]=
+Name8[$e]=
+comboHistory[$e]=takeout,$HOME/Music/,$HOME/.local/share/Trash/, /home/tushar/Desktop/tmpbackup/sdcard/
+
+[window]
+Height 1080=796
+Height 900=770
+State=AAAA/wAAAAD9AAAAAAAAB4AAAANmAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAMAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADqwAAAAAAAAAAAAAAFgB2AGkAZQB3AFQAbwBvAGwAQgBhAHIAAAAC4/////8AAAAAAAAAAAAAAB4AbABvAGMAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIBAAADqwAAA9UAAAAAAAAAAA==
+ToolBarsMovable=Disabled
+Width 1600=943
+Width 1920=944
+eDP1 Height 1080=796
+eDP1 Height 1920x1080=796
+eDP1 Width 1920=942
+eDP1 Width 1920x1080=944
+eDP1 Window-Maximized 1920x1080=true
+eDP1 XPosition=457
+eDP1 XPosition 1920x1080=0
+eDP1 YPosition=152
+eDP1 YPosition 1920x1080=43

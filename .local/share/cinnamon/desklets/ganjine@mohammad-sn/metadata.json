@@ -1,0 +1,8 @@
+{
+    "description": "A desklet that displays random persian poems from ganjoor.net.",
+    "max-instances": "100",
+    "uuid": "ganjine@mohammad-sn",
+    "name": "Ganjine",
+    "prevent-decorations": true,
+    "last-edited": 1505205302
+}

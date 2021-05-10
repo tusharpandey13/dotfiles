@@ -1,0 +1,78 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
+
+[Crop]
+CropAdvancedSettingsEnabled=true
+CropRatioHeight=1
+CropRatioIndex=1
+CropRatioWidth=1
+
+[General]
+JPEGQuality=100
+LastTargetDir[$e]=file:$HOME/tmp/r
+ViewBackgroundValue=0
+
+[ImageView]
+AlphaBackgroundMode=AbstractImageView::AlphaBackgroundCheckBoard
+AnimationMethod=DocumentView::GLAnimation
+
+[MainWindow]
+Height 1080=674
+Height 864=803
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABQAAAAKNAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1536=864
+Width 1920=862
+eDP1 Height 1080=655
+eDP1 Height 1920x1080=1002
+eDP1 Height 864=803
+eDP1 Width 1536=864
+eDP1 Width 1920=1280
+eDP1 Width 1920x1080=960
+eDP1 Window-Maximized 1080x1920=true
+eDP1 XPosition=282
+eDP1 XPosition 1920x1080=960
+eDP1 YPosition=177
+eDP1 YPosition 1920x1080=43
+
+[Notification Messages]
+HideMenuBarWarning=false
+
+[Recent Files]
+File1[$e]=$HOME/src/py/rep_counter/out/dbpress_up/dbpress_up_image_10.jpg
+File10[$e]=$HOME/src/py/rep_counter/out/dbpress_up/dbpress_up_image_9.jpg
+File2[$e]=$HOME/src/py/rep_counter/out/dbpress_up/dbpress_up_image_11.jpg
+File3[$e]=$HOME/src/py/rep_counter/out/dbpress_up/dbpress_up_image_12.jpg
+File4[$e]=$HOME/src/py/rep_counter/out/dbpress_up/dbpress_up_image_13.jpg
+File5[$e]=$HOME/src/py/rep_counter/out/dbpress_up/dbpress_up_image_14.jpg
+File6[$e]=$HOME/src/py/rep_counter/out/dbpress_up/dbpress_up_image_15.jpg
+File7[$e]=$HOME/src/py/rep_counter/out/dbpress_up/dbpress_up_image_16.jpg
+File8[$e]=$HOME/src/py/rep_counter/out/dbpress_up/dbpress_up_image_17.jpg
+File9[$e]=$HOME/src/py/rep_counter/out/dbpress_up/dbpress_up_image_18.jpg
+Name1[$e]=dbpress_up_image_10.jpg
+Name10[$e]=dbpress_up_image_9.jpg
+Name2[$e]=dbpress_up_image_11.jpg
+Name3[$e]=dbpress_up_image_12.jpg
+Name4[$e]=dbpress_up_image_13.jpg
+Name5[$e]=dbpress_up_image_14.jpg
+Name6[$e]=dbpress_up_image_15.jpg
+Name7[$e]=dbpress_up_image_16.jpg
+Name8[$e]=dbpress_up_image_17.jpg
+Name9[$e]=dbpress_up_image_18.jpg
+
+[SemanticInfoDialog]
+Height 864=300
+Width 1536=284
+eDP1 Height 1080=320
+eDP1 Width 1920=305
+
+[SideBar]
+IsVisible ViewMode=false
+SideBarSplitterSizes=248,709
+
+[StatusBar]
+IsVisible ViewMode=false
+
+[ThumbnailView]
+ListVideos=false

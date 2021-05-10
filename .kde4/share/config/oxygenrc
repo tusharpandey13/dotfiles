@@ -1,0 +1,7 @@
+[Style]
+MenuBarAnimationType=MB_FOLLOW_MOUSE
+MenuHighlightMode=MM_SUBTLE
+ScrollBarWidth=20
+StackedWidgetTransitionsEnabled=true
+ViewDrawFocusIndicator=true
+ViewTriangularExpanderSize=TE_NORMAL

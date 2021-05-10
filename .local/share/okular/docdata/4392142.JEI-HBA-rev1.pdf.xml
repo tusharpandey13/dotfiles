@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documentInfo>
+<documentInfo url="/home/tushar/kdeconnect/JEI-HBA-rev1.pdf">
+ <generalInfo>
+  <history>
+   <oldPage viewport="30"/>
+   <oldPage viewport="31"/>
+   <oldPage viewport="30"/>
+   <oldPage viewport="29"/>
+   <oldPage viewport="30;C2:0.499658:0.52021:1"/>
+   <oldPage viewport="29"/>
+   <oldPage viewport="28"/>
+   <oldPage viewport="27"/>
+   <oldPage viewport="26"/>
+   <oldPage viewport="25"/>
+   <current viewport="24"/>
+  </history>
+  <views>
+   <view name="PageView">
+    <zoom mode="0" value="1.5"/>
+    <continuous mode="1"/>
+    <viewMode mode="0"/>
+    <trimMargins value="0"/>
+   </view>
+  </views>
+ </generalInfo>
+</documentInfo>

@@ -1,0 +1,16 @@
+[MainWindow]
+CommandList=
+Height 1080=613
+HostList=
+MenuBar=Disabled
+SelectedSheets[$e]=ProcessTable.sgrd,SystemLoad2.sgrd,Sheet 1.sgrd
+SplitterSizeList=479,336
+State=AAAA/wAAAAD9AAAAAAAAAzAAAAJIAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=816
+currentSheet=0
+eDP1 Height 1920x1080=613
+eDP1 Width 1920x1080=816
+eDP1 XPosition 1920x1080=774
+eDP1 YPosition 1920x1080=133
+isMinimized=false

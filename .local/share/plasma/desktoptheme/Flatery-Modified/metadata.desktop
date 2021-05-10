@@ -1,0 +1,24 @@
+[ContrastEffect]
+contrast=0.2
+enabled=false
+intensity=0.4
+saturation=1.7
+
+[Desktop Entry]
+Name=Flatery-Modified
+X-KDE-PluginInfo-Author=Cybernix_and_Tuxg0d
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-Email=professorlinux@tutanota.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=CCPL:by-sa
+X-KDE-PluginInfo-Name=Flatery-Modified
+X-KDE-PluginInfo-Version=.0.2
+X-KDE-PluginInfo-Website=
+X-KPackage-Dependencies=kns://icons.knsrc/api.kde-look.org/1332404,kns://wallpaper.knsrc/api.kde-look.org/1338706,kns://wallpaper.knsrc/api.kde-look.org/1338735
+
+[Wallpaper]
+defaultFileSuffix=.png
+defaultHeight=1080
+defaultWallpaperTheme=Flatery
+defaultWidth=1920

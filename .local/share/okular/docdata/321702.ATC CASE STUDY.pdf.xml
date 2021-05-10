@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documentInfo>
+<documentInfo url="/home/tushar/kdeconnect/ATC CASE STUDY.pdf">
+ <generalInfo>
+  <history>
+   <oldPage viewport="20;C2:0.499649:0.00938272:1"/>
+   <oldPage viewport="19;C2:0.499649:0.933827:1"/>
+   <oldPage viewport="20;C2:0.499649:0.935309:1"/>
+   <oldPage viewport="21;C2:0.499649:0.647901:1"/>
+   <oldPage viewport="22"/>
+   <oldPage viewport="21"/>
+   <oldPage viewport="22"/>
+   <oldPage viewport="23"/>
+   <oldPage viewport="22"/>
+   <oldPage viewport="21"/>
+   <current viewport="20"/>
+  </history>
+  <views>
+   <view name="PageView">
+    <zoom value="1.5" mode="0"/>
+    <continuous mode="1"/>
+    <viewMode mode="0"/>
+    <trimMargins value="0"/>
+   </view>
+  </views>
+ </generalInfo>
+</documentInfo>

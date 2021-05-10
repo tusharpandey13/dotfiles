@@ -1,0 +1,46 @@
+[ActionsWidget]
+ColumnState=AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2EAAAACAQAAAQAAAAAAAAAAAAAAAH3/////AAAAgQAAAAAAAAACAAAA+gAAAAEAAAAAAAACZwAAAAEAAAAAAAAD6AAAAAB9
+
+[ConfigDialog]
+Height 1080=649
+Width 1920=1020
+
+[DownloadDialog Settings]
+Height 1080=671
+Width 1920=862
+
+[General]
+Number of Actions=0
+
+[PlasmaRunnerManager]
+LaunchCounts=
+pluginWhiteList=services,shell,bookmarks,baloosearch,locations
+
+[PlasmaThemeExtended]
+outlineWidth=1
+
+[ScreenConnectors]
+10=eDP-1
+11=eDP1
+12=Screen30
+13=eDP-1-1
+14=VIRTUAL1
+
+[UniversalSettings]
+badges3DStyle=true
+canDisableBorders=true
+currentLayout=Default
+downloadWindowSize=1105,850
+lastNonAssignedLayout=Default
+launchers=applications:org.kde.dolphin.desktop,applications:kitty.desktop,applications:chromium.desktop,applications:code-oss.desktop
+layoutsColumnWidths=141,86,83,107
+layoutsWindowSize=700,627
+memoryUsage=0
+metaPressAndHoldEnabled=true
+mouseSensitivity=0
+screenTrackerInterval=2500
+showInfoWindow=true
+version=2
+
+[UniversalSettings][ScreenScales]
+eDP-1=1;1.04

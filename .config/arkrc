@@ -1,0 +1,158 @@
+[CreateDialog]
+LastMimeType=application/zip
+
+[ExtractDialog]
+DirHistory[$e]=$HOME/w/,$HOME/tmp/,$HOME/tmp/tmpbackup/latest/,$HOME/src/py/60002/,$HOME/src/repo/express-mongoose-boilerplate/src/,$HOME/src/tmp/,$HOME/Downloads/,$HOME/Documents/,$HOME/t/learn/cs/VTU-CSE-LAB-SOLUTIONS/cnl/,$HOME/t/learn/CS Degree/VTU-CSE-LAB-SOLUTIONS/
+eDP1 Height 1080=720
+eDP1 Width 1920=1319
+
+[Extraction]
+closeAfterExtraction=true
+openDestinationFolderAfterExtraction=true
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME
+Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/t/learn/cs/VTU-CSE-LAB-SOLUTIONS/,file:$HOME/t/learn/cs/,file:$HOME/,file:$HOME/Documents/,file:$HOME/src/,file:$HOME/src/repo/express-mongoose-boilerplate/src/,file:$HOME/src/py/60002/,file:$HOME/tmp/,file:$HOME/w/
+detailViewIconSize=16
+iconViewIconSize=16
+listViewIconSize=15
+
+[KTextEditor Document]
+Allow End of Line Detection=true
+BOM=false
+Backup Local=false
+Backup Prefix=
+Backup Remote=false
+Backup Suffix=~
+Encoding=UTF-8
+End of Line=0
+Indent On Backspace=true
+Indent On Tab=true
+Indent On Text Paste=false
+Indentation Mode=normal
+Indentation Width=4
+Keep Extra Spaces=false
+Line Length Limit=4096
+Newline at End of File=true
+On-The-Fly Spellcheck=false
+Overwrite Mode=false
+PageUp/PageDown Moves Cursor=false
+Remove Spaces=0
+ReplaceTabsDyn=true
+Show Spaces=0
+Show Tabs=true
+Smart Home=true
+Swap Directory=
+Swap File Mode=1
+Swap Sync Interval=15
+Tab Handling=2
+Tab Width=4
+Trailing Marker Size=1
+Word Wrap=false
+Word Wrap Column=80
+
+[KTextEditor Editor]
+Encoding Prober Type=1
+Fallback Encoding=ISO-8859-15
+
+[KTextEditor Renderer]
+Animate Bracket Matching=false
+Schema=Normal
+Show Indentation Lines=false
+Show Whole Bracket Expression=false
+Word Wrap Marker=false
+
+[KTextEditor View]
+Allow Mark Menu=true
+Auto Brackets=false
+Auto Center Lines=0
+Auto Completion=true
+Backspace Remove Composed Characters=false
+Bookmark Menu Sorting=0
+Chars To Enclose Selection=
+Default Mark Type=1
+Dynamic Word Wrap=true
+Dynamic Word Wrap Align Indent=80
+Dynamic Word Wrap At Static Marker=false
+Dynamic Word Wrap Indicators=1
+Dynamic Wrap not at word boundaries=false
+Fold First Line=false
+Folding Bar=true
+Folding Preview=true
+Icon Bar=false
+Input Mode=0
+Keyword Completion=true
+Line Modification=false
+Line Numbers=false
+Maximum Search History Size=100
+Mouse Paste At Cursor Position=false
+Persistent Selection=false
+Scroll Bar Marks=false
+Scroll Bar Mini Map All=false
+Scroll Bar Mini Map Width=60
+Scroll Bar MiniMap=true
+Scroll Bar Preview=true
+Scroll Past End=false
+Search/Replace Flags=140
+Show Line Count=false
+Show Scrollbars=0
+Show Word Count=false
+Smart Copy Cut=false
+Text Drag And Drop=true
+User Sets Of Chars To Enclose Selection=
+Vi Input Mode Steal Keys=false
+Vi Relative Line Numbers=false
+Word Completion=true
+Word Completion Minimal Word Length=3
+Word Completion Remove Tail=true
+
+[MainWindow]
+Height 1080=625
+Height 864=594
+Height 900=871
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABBAAAAI9AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+Width 1536=954
+Width 1600=792
+Width 1920=1040
+eDP1 Height 1080=625
+eDP1 Height 1920x1080=625
+eDP1 Width 1920=1040
+eDP1 Width 1920x1080=1040
+eDP1 XPosition=733
+eDP1 XPosition 1920x1080=880
+eDP1 YPosition=246
+eDP1 YPosition 1920x1080=173
+splitterSizes=1039,0
+
+[Open-with settings]
+CompletionMode=1
+History=
+
+[Recent Files]
+File1[$e]=zip:/home/tushar/Downloads/TF_Template_Word_Windows_2016.zip/TF_Template_Word_Windows_2016.dotx
+File2[$e]=$HOME/Downloads/Untitled spreadsheet.xlsx
+File3[$e]=$HOME/tmp/tmpdesktop/learn/books/Assorted Fantasy/Grimms Fairy Tales/Grimms Fairy Tales.rar
+File4[$e]=$HOME/Downloads/The_Americans - season 1.en.zip
+Name1[$e]=TF_Template_Word_Windows_2016.dotx
+Name2[$e]=Untitled spreadsheet.xlsx
+Name3[$e]=Grimms Fairy Tales.rar
+Name4[$e]=The_Americans - season 1.en.zip
+
+[Viewer]
+Height 1080=762
+Height 864=170
+Height 900=758
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAAiAAAAK6AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1536=336
+Width 1600=889
+Width 1920=544
+Window-Maximized 864x1536=true
+eDP1 Height 1080=762
+eDP1 Width 1920=544
+eDP1 XPosition=439
+eDP1 YPosition=164

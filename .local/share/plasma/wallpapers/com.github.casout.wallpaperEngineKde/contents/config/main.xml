@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0
+      http://www.kde.org/standards/kcfg/1.0/kcfg.xsd" >
+  <kcfgfile name=""/>
+
+  <group name="General">
+	<entry name="SteamLibraryPath" type="Path">
+      <label>Steam workshop path</label>
+      <default></default>
+    </entry>
+    <entry name="WallpaperWorkShopId" type="String">
+      <label>Wallpaper workshopid</label>
+      <default></default>
+    </entry>
+    <entry name="WallpaperFilePath" type="Path">
+      <label>Wallpaper file path</label>
+      <default></default>
+    </entry>
+	<entry name="WallpaperType" type="String">
+      <label>Wallpaper type</label>
+      <default></default>
+    </entry>
+    <entry name="BackgroundColor" type="String">
+      <label>Last folder used</label>
+      <default>black</default>
+    </entry>
+    <entry name="DisplayMode" type="Int">
+      <label>Video display mode</label>
+      <default>0</default>
+    </entry>
+	<entry name="PauseMode" type="Int">
+      <label>Video Pause mode</label>
+      <default>0</default>
+    </entry>
+	<entry name="FilterMode" type="Int">
+      <label>Filter mode</label>
+      <default>0</default>
+    </entry>
+    <entry name="MuteAudio" type="Bool">
+      <label>Mute audio</label>
+      <default>true</default>
+    </entry>
+    <entry name="CapMouse" type="Bool">
+      <label>Capture mouse</label>
+      <default>false</default>
+	</entry>
+    <entry name="UseMpv" type="Bool">
+      <label>Use Mpv</label>
+      <default>false</default>
+    </entry>
+    <entry name="Fps" type="Int">
+      <label>Fps</label>
+      <default>15</default>
+    </entry>
+  </group>
+</kcfg>

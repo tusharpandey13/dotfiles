@@ -1,0 +1,13 @@
+{
+    "cinnamon-version": [
+        "3.6",
+        "3.8",
+        "4.0"
+    ],
+    "uuid": "gTile@shuairan",
+    "name": "gTile",
+    "description": "Tile your windows as you like.",
+    "version": "1.0.0",
+    "url": "https://github.com/shuairan/gTile",
+    "last-edited": 1546948313
+}

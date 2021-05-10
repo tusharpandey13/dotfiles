@@ -1,0 +1,61 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "mukunda.adhikari@outlook.com",
+                "Name": "AERegeneratel38"
+            }
+        ],
+        "Description": "",
+        "Icon": "plasma",
+        "Id": "org.kde.plasma.aestheticwallpaper",
+        "License": "LGPL-2.1+",
+        "Name": "AestheticWallpaper",
+        "Name[ar]": "AestheticWallpaper",
+        "Name[ca@valencia]": "AestheticWallpaper",
+        "Name[ca]": "AestheticWallpaper",
+        "Name[cs]": "AestheticWallpaper",
+        "Name[da]": "AestheticWallpaper",
+        "Name[de]": "AestheticWallpaper",
+        "Name[en_GB]": "AestheticWallpaper",
+        "Name[es]": "AestheticWallpaper",
+        "Name[et]": "AestheticWallpaper",
+        "Name[eu]": "AestheticWallpaper",
+        "Name[fi]": "AestheticWallpaper",
+        "Name[fr]": "AestheticWallpaper",
+        "Name[gd]": "AestheticWallpaper",
+        "Name[gl]": "AestheticWallpaper",
+        "Name[hu]": "AestheticWallpaper",
+        "Name[ia]": "AestheticWallpaper",
+        "Name[id]": "AestheticWallpaper",
+        "Name[it]": "AestheticWallpaper",
+        "Name[ko]": "AestheticWallpaper",
+        "Name[lt]": "AestheticWallpaper",
+        "Name[nb]": "AestheticWallpaper",
+        "Name[nl]": "AestheticWallpaper",
+        "Name[nn]": "AestheticWallpaper",
+        "Name[pl]": "AestheticWallpaper",
+        "Name[pt]": "AestheticWallpaper",
+        "Name[pt_BR]": "AestheticWallpaper",
+        "Name[ru]": "AestheticWallpaper",
+        "Name[sk]": "AestheticWallpaper",
+        "Name[sl]": "AestheticWallpaper",
+        "Name[sr@ijekavian]": "AestheticWallpaper",
+        "Name[sr@ijekavianlatin]": "AestheticWallpaper",
+        "Name[sr@latin]": "AestheticWallpaper",
+        "Name[sr]": "AestheticWallpaper",
+        "Name[sv]": "AestheticWallpaper",
+        "Name[tg]": "AestheticWallpaper",
+        "Name[tr]": "AestheticWallpaper",
+        "Name[uk]": "AestheticWallpaper",
+        "Name[x-test]": "xxAestheticWallpaperxx",
+        "Name[zh_CN]": "AestheticWallpaper",
+        "Name[zh_TW]": "AestheticWallpaper",
+        "ServiceTypes": [
+            "Plasma/Wallpaper"
+        ],
+        "Version": "0.1",
+        "Website": "https://plasma.kde.org/"
+    },
+    "X-Plasma-MainScript": "ui/main.qml"
+}

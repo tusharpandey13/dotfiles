@@ -1,0 +1,19 @@
+[Desktop Entry]
+Name=Cool Effect
+
+Icon=preferences-system-windows-effect-fade
+Comment=Cool effect for kwin
+
+Type=Service
+X-Plasma-API=javascript
+X-Plasma-MainScript=code/main.js
+X-KDE-ServiceTypes=KWin/Effect
+X-KDE-PluginInfo-Author=Phan Quang Đạt
+X-KDE-PluginInfo-Email=ineedyou.lonely@gmail.com
+X-KDE-PluginInfo-Name=kwin4_effect_cooleffect
+X-KDE-PluginInfo-Version=0.0.1
+X-KDE-PluginInfo-Category=Appearance
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-Ordering=60

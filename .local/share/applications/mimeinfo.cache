@@ -1,0 +1,20 @@
+[MIME Cache]
+application/pdf=chrm.desktop;
+application/rdf+xml=chrm.desktop;
+application/rss+xml=chrm.desktop;
+application/x-code-oss-workspace=code.desktop;
+application/xhtml+xml=chrm.desktop;
+application/xhtml_xml=chrm.desktop;
+application/xml=chrm.desktop;
+image/gif=chrm.desktop;
+image/jpeg=chrm.desktop;
+image/png=chrm.desktop;
+image/webp=chrm.desktop;
+text/html=chrm.desktop;
+text/plain=code.desktop;
+text/x-arduino=arduino-arduinoide.desktop;
+text/xml=chrm.desktop;
+x-scheme-handler/code-oss=code-oss-url-handler.desktop;
+x-scheme-handler/ftp=chrm.desktop;
+x-scheme-handler/http=chrm.desktop;
+x-scheme-handler/https=chrm.desktop;

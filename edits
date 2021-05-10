@@ -1,0 +1,4 @@
+/etc/laptop-mode/conf.d/cpuhotplug.conf:
+	set hotplug control to 1
+/etc/laptop-mode/laptop-mode.conf
+	hdparm and other disk related

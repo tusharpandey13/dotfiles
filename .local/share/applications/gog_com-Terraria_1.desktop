@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Value=1.0
+Type=Application
+Name=Terraria
+GenericName=Terraria
+Comment=Terraria
+Icon=/home/tushar/GOG Games/Terraria/support/icon.png
+Exec="/home/tushar/GOG Games/Terraria/start.sh" ""
+Categories=Game;
+Path=/home/tushar/GOG Games/Terraria
+

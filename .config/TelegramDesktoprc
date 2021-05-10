@@ -1,0 +1,11 @@
+[FileDialogSize]
+Height 1080=794
+Width 1920=1082
+eDP1 Height 1080=794
+eDP1 Width 1920=1082
+
+[KFileDialog Settings]
+Recent Files[$e]=pwipBackend.tar.gz,file:$HOME/ss/Screenshot_20201214_190440.png,file:$HOME/Downloads/[limetorrents.info]Cry.Of.Fear.v1.6.2013.FULL.ENG.RUS.SteamRiP.torrent,file:$HOME/tmp/tmpbackup/n/Documents/Lawnchair/backup/System Icons\\, Automatic (Matches Wallpaper)_2020-08-25-19-53-45.shed,file:$HOME/Downloads/Tushar_Pandey_Resume_07-08-2020-13-35-01.pdf,file:$HOME/Downloads/Suntup-SK-art-prints_Viking_SS_Gunslinger_11x17.jpg,file:$HOME/t/learn/books/in five years by rebecca serle/In Five Years  by Rebecca Serle.epub,file:$HOME/Downloads/Telegram Desktop/whitepage.jpg,file:$HOME/Downloads/Telegram Desktop/tmp.jpg
+Recent URLs[$e]=file:$HOME/tmp/tmpbackup/n/Documents/Lawnchair/backup/,file:$HOME/Downloads/,file:$HOME/ss/
+detailViewIconSize=100
+iconViewIconSize=43

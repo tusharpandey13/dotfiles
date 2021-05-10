@@ -1,0 +1,80 @@
+Height 1080=683
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAA8AAAAPsAAAABAAAAAQAAAAIAAAACPwAAAAFAAAAAAAAAAAAAAABAAAAAAAAAAIAAAAAAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAAAAAGegAAAAAAAAAAAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIBAAAGev////8CDQzDAEiB3gAAAAMAAAAA
+Width 1920=1280
+Window-Maximized 1080x1920=true
+Window-Maximized 864x1536=true
+Window-Maximized 900x1600=true
+eDP1 Height 1920x1080=1004
+eDP1 Width 1920x1080=960
+eDP1 Window-Maximized 1080x1920=true
+eDP1 Window-Maximized 864x1536=true
+eDP1 XPosition=0
+eDP1 XPosition 1920x1080=0
+eDP1 YPosition=41
+eDP1 YPosition 1920x1080=41
+
+[Desktop Entry]
+FullScreen=false
+shouldShowMenuBarComingFromFullScreen=false
+shouldShowToolBarComingFromFullScreen=true
+
+[KFileDialog Settings]
+Recent Files[$e]=unixhatershandbook.pdf,file:$HOME/t/learn/unixhatershandbook.pdf
+Recent URLs[$e]=file:$HOME/t/learn/
+detailViewIconSize=0
+
+[MainWindow]
+Height 1080=683
+Height 768=743
+Height 864=524
+Height 875=581
+Height 900=874
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPHAAAABAAAAAQAAAAIAAAACPwAAAAFAAAAAAAAAAAAAAABAAAAAAAAAAIAAAAAAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAAAAAGegAAAAAAAAAAAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAGev////8CDQzDAEiB3gAAAAMAAAAA
+ToolBarsMovable=Disabled
+Width 1368=1368
+Width 1400=1065
+Width 1536=1024
+Width 1600=1600
+Width 1920=1280
+Width 2336=640
+Window-Maximized 1080x1920=true
+Window-Maximized 1920x1080=true
+Window-Maximized 864x1536=true
+eDP1 Height 1080=1004
+eDP1 Height 1920x1080=653
+eDP1 Height 864=803
+eDP1 Width 1536=1024
+eDP1 Width 1920=1246
+eDP1 Width 1920x1080=1280
+eDP1 Window-Maximized 1920x1080=true
+eDP1 Window-Maximized 864x1536=true
+eDP1 XPosition=0
+eDP1 XPosition 1920x1080=0
+eDP1 YPosition=41
+eDP1 YPosition 1920x1080=43
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/doc/undergrad_resumes_and_cover_letters.pdf
+File10[$e]=$HOME/t/learn/cs/books/dl/FranÃ§ois Chollet - Deep Learning with Python-Manning (2018).pdf
+File2[$e]=$HOME/tmp/tmpdesktop/tushar/Downloads/doc/Tushar Pandey Resume.pdf
+File3[$e]=$HOME/Downloads/doc/Tushar Pandey Resume.pdf
+File4[$e]=$HOME/Downloads/doc/Literature_Review_of_Text_detection_from_occluded_natural_scene_images.pdf
+File5[$e]=$HOME/tmp/tmpdesktop/learn/books/All Dune books + short stories + extras ePUB/Original Dune series/1 - Dune - Frank Herbert (1965).epub
+File6[$e]=$HOME/Downloads/doc/mediacloud_proposal_2021_tushar_pandey.pdf
+File7[$e]=$HOME/Downloads/doc/Profile(2).pdf
+File8[$e]=$HOME/Downloads/doc/ESLII_print10.pdf
+File9[$e]=$HOME/Downloads/doc/the-road-to-learn-react.pdf
+Name1[$e]=undergrad_resumes_and_cover_letters.pdf
+Name10[$e]=FranÃ§ois Chollet - Deep Learning with Python-Manning (2018).pdf
+Name2[$e]=Tushar Pandey Resume.pdf
+Name3[$e]=Tushar Pandey Resume.pdf
+Name4[$e]=Literature_Review_of_Text_detection_from_occluded_natural_scene_images.pdf
+Name5[$e]=1 - Dune - Frank Herbert (1965).epub
+Name6[$e]=mediacloud_proposal_2021_tushar_pandey.pdf
+Name7[$e]=Profile(2).pdf
+Name8[$e]=ESLII_print10.pdf
+Name9[$e]=the-road-to-learn-react.pdf
+
+[Toolbar mainToolBar]
+IconSize=32
