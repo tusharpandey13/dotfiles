@@ -2,7 +2,7 @@
 
 cd ~
 
-yadm add .astylerc .bash_profile .bashrc .exports.sh .festival_history .festivalrc .gitconfig .gtkrc-2.0 .imwheelrc .mysql_history .npmrc .p10k.zsh .profile .psql_history .pycodestyle .python_history .vimrc .xinitrc .Xresources .xscreensaver .yarnrc .zprofile .zsh_aliases.sh .zsh_preload.sh .zshrc blur.sh cleanpacman.sh edits gitrmcached.sh rc.xml screenoff.sh setauto.sh start.sh startgala.sh startpolybar.sh startvnc.sh test.py toggle_screenkey.sh toggleinternalkeyboard.sh update_cmus.sh xfce4-panel.xml xfwm_gala_replace.sh .emerald .gimp-2.8 .icons .kde4 .themes backup_dotfiles.sh
+yadm add .astylerc .bash_profile .bashrc .exports.sh .festival_history .festivalrc .gitconfig .gtkrc-2.0 .imwheelrc .mysql_history .npmrc .p10k.zsh .profile .psql_history .pycodestyle .python_history .vimrc .xinitrc .Xresources .xscreensaver .yarnrc .zprofile .zsh_aliases.sh .zsh_preload.sh .zshrc blur.sh cleanpacman.sh edits gitrmcached.sh rc.xml screenoff.sh setauto.sh start.sh startgala.sh startpolybar.sh startvnc.sh test.py toggle_screenkey.sh toggleinternalkeyboard.sh update_cmus.sh xfce4-panel.xml xfwm_gala_replace.sh .emerald .gimp-2.8 .icons .kde4 .themes backup_dotfiles.sh README.md
 
 cd .config
 
