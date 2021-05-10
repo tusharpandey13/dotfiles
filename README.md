@@ -16,7 +16,7 @@
 
 ### restore
     yadm clone git@github.com:tusharpandey13/dotfiles.git
-
+    yadm decrypt #(optional, requires password)
 
 ## Notes
 While the files added are safe to my knowledge and don't contain any compromising information that is not encrypted, the user of this repo is advised to ignore and immediately report any secrets/vulnerabilities/compromising information found as an act of humanity and as their ethical responsibility.
