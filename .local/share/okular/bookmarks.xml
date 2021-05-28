@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel>
-<xbel dbusName="okular" xmlns:kdepriv="http://www.kde.org/kdepriv" xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks" xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info">
+<xbel dbusName="okular" xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks" xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info" xmlns:kdepriv="http://www.kde.org/kdepriv">
  <folder href="file:///home/tushar/Desktop/notes/Computeranization And Embedded Systems, Hamacher, Vranesic, Zaky, Manjikian, 6Ed, Mgh, 2012.pdf">
   <title>/home/tushar/Desktop/notes/Computeranization And Embedded Systems, Hamacher, Vranesic, Zaky, Manjikian, 6Ed, Mgh, 2012.pdf</title>
   <bookmark href="file:///home/tushar/Desktop/notes/Computeranization%20And%20Embedded%20Systems,%20Hamacher,%20Vranesic,%20Zaky,%20Manjikian,%206Ed,%20Mgh,%202012.pdf#108;C2:0.271538:0.596094:1">
@@ -250,6 +250,434 @@
   <title>/home/tushar/kdeconnect/dbms modul1 1.pdf</title>
   <bookmark href="file:///home/tushar/kdeconnect/dbms%20modul1%201.pdf#39;C2:0.5:0.140986:1">
    <title>#40</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+ </folder>
+ <folder href="file:///home/tushar/t/learn/cs/notes/cg/CGV_MOD1_SHANKAR.pdf">
+  <title>/home/tushar/t/learn/cs/notes/cg/CGV_MOD1_SHANKAR.pdf</title>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/CGV_MOD1_SHANKAR.pdf#115;C2:0.5:0.456014:1">
+   <title>opengl intro</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/CGV_MOD1_SHANKAR.pdf#116">
+   <title>1st program</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/CGV_MOD1_SHANKAR.pdf#118">
+   <title>dda</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/CGV_MOD1_SHANKAR.pdf#120">
+   <title>bresenham</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/CGV_MOD1_SHANKAR.pdf#123">
+   <title>bresenham circle</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+ </folder>
+ <folder href="file:///home/tushar/t/learn/cs/notes/cg/SOL_MOD_1.pdf">
+  <title>/home/tushar/t/learn/cs/notes/cg/SOL_MOD_1.pdf</title>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/SOL_MOD_1.pdf#1">
+   <title>applications</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/SOL_MOD_1.pdf#3">
+   <title>crt</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/SOL_MOD_1.pdf#5">
+   <title>diff bw random scan and raster</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/SOL_MOD_1.pdf#6">
+   <title>explain color crt, flat panel</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/SOL_MOD_1.pdf#12">
+   <title>archi if simple raster system / with a display proc</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/SOL_MOD_1.pdf#14">
+   <title>input devices</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/SOL_MOD_1.pdf#18">
+   <title>wm using glut</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/SOL_MOD_1.pdf#19">
+   <title>what is coordinate ref frame, screen coord, absolute and relative</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/SOL_MOD_1.pdf#20">
+   <title>opengl func for pt and line</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/SOL_MOD_1.pdf#24">
+   <title>dda</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/SOL_MOD_1.pdf#27">
+   <title>bresnham</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/SOL_MOD_1.pdf#31">
+   <title>circle</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/SOL_MOD_1.pdf#33">
+   <title>point attribute fn</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/SOL_MOD_1.pdf#34">
+   <title>line attrib fn</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/SOL_MOD_1.pdf#42">
+   <title>implement bresenham</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/SOL_MOD_1.pdf#47">
+   <title>opengl syntax</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/SOL_MOD_1.pdf#48">
+   <title>props of circle</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/SOL_MOD_1.pdf#49">
+   <title>implement midpoint circle</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/SOL_MOD_1.pdf#51">
+   <title>implement opengl program</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/SOL_MOD_1.pdf#53">
+   <title>bresenham ques</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/SOL_MOD_1.pdf#55">
+   <title>circle ques</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/SOL_MOD_1.pdf#57">
+   <title>bresenham ques</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+ </folder>
+ <folder href="file:///home/tushar/t/learn/cs/notes/cg/SOL_MOD_2.pdf">
+  <title>/home/tushar/t/learn/cs/notes/cg/SOL_MOD_2.pdf</title>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/SOL_MOD_2.pdf#2">
+   <title>2 algo for interior area</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/SOL_MOD_2.pdf#5">
+   <title>2d view transform pipeline</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/SOL_MOD_2.pdf#8">
+   <title>scaling is multiplicative</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/SOL_MOD_2.pdf#10">
+   <title>addn is additive</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/SOL_MOD_2.pdf#12">
+   <title>design polygon, rotate 30</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/SOL_MOD_2.pdf#13">
+   <title>world, view coord, pipeline</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/SOL_MOD_2.pdf#14">
+   <title>scanline polygon fill</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/SOL_MOD_2.pdf#18">
+   <title>reflection</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/SOL_MOD_2.pdf#19">
+   <title>reflection and shearing</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/SOL_MOD_2.pdf#23">
+   <title>vector splitting</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/SOL_MOD_2.pdf#26">
+   <title>polygon fill ques</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/SOL_MOD_2.pdf#28">
+   <title>fill style</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/SOL_MOD_2.pdf#30">
+   <title>opengl triangle composite matrix</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/SOL_MOD_2.pdf#33">
+   <title>reaster op</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/SOL_MOD_2.pdf#35">
+   <title>notes</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/SOL_MOD_2.pdf#39">
+   <title>geo transform</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/SOL_MOD_2.pdf#41">
+   <title>rotation about pivot pt and scaling</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/SOL_MOD_2.pdf#43">
+   <title>img transofrm ,composite transform</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/SOL_MOD_2.pdf#47">
+   <title>matrix op, matrix stack</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/SOL_MOD_2.pdf#48">
+   <title>2d viewing func</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/SOL_MOD_2.pdf#50">
+   <title>translate square</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/SOL_MOD_2.pdf#51">
+   <title>rotate triangle</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/SOL_MOD_2.pdf#54">
+   <title>polygon classification</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/SOL_MOD_2.pdf#56">
+   <title>stitching effect</title>
+   <info>
+    <metadata owner="http://freedesktop.org">
+     <bookmark:icon name=""/>
+    </metadata>
+   </info>
+  </bookmark>
+ </folder>
+ <folder href="file:///home/tushar/t/learn/cs/notes/cg/cg case study ia1.pdf">
+  <title>/home/tushar/t/learn/cs/notes/cg/cg case study ia1.pdf</title>
+  <bookmark href="file:///home/tushar/t/learn/cs/notes/cg/cg%20case%20study%20ia1.pdf#1;C2:0.5:0.596704:1">
+   <title>large ob track</title>
    <info>
     <metadata owner="http://freedesktop.org">
      <bookmark:icon name=""/>

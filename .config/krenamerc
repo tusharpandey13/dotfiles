@@ -38,16 +38,15 @@ Stepping=1
 firststart4=false
 
 [KFileDialog Settings]
-Recent Files[$e]=bicepcurl_down_33.jpg,file:$HOME/src/py/rep_counter/out/dbpress_down/dbpress_down_224.jpg,file:$HOME/src/py/rep_counter/out/dbpress_down/dbpress_down_234.jpg,file:$HOME/src/py/rep_counter/out/dbpress_down/dbpress_down_244.jpg,file:$HOME/src/py/rep_counter/out/dbpress_down/dbpress_down_254.jpg,file:$HOME/src/py/rep_counter/out/dbpress_down/dbpress_down_264.jpg,file:$HOME/src/py/rep_counter/out/dbpress_down/dbpress_down_274.jpg,file:$HOME/src/py/rep_counter/out/dbpress_down/dbpress_down_284.jpg,file:$HOME/src/py/rep_counter/out/dbpress_down/dbpress_down_294.jpg,file:$HOME/src/py/rep_counter/out/dbpress_down/dbpress_down_304.jpg,file:$HOME/src/py/rep_counter/out/dbpress_down/dbpress_down_314.jpg,file:$HOME/src/py/rep_counter/out/dbpress_down/dbpress_down_324.jpg,file:$HOME/src/py/rep_counter/out/dbpress_down/dbpress_down_334.jpg,file:$HOME/src/py/rep_counter/out/dbpress_down/dbpress_down_344.jpg,file:$HOME/src/py/rep_counter/out/dbpress_down/dbpress_down_354.jpg,file:$HOME/src/py/rep_counter/out/dbpress_down/dbpress_down_364.jpg
-Recent URLs[$e]=file:$HOME/src/py/rep_counter/out/bicepcurl_up/,file:$HOME/src/py/rep_counter/out/bicepcurl_down/,file:$HOME/Documents/,file:$HOME/,file:$HOME/src/py/rep_counter/out/dbpress_up/,file:$HOME/src/py/rep_counter/out/dbpress_down/
+Recent Files[$e]=bicepcurl_down_33.jpg,file:$HOME/src/py/rep_counter/new/bicepcurl/out/0.0/66.jpg,file:$HOME/src/py/rep_counter/new/bicepcurl/out/0.0/68.jpg,file:$HOME/src/py/rep_counter/new/bicepcurl/out/0.0/57.jpg,file:$HOME/src/py/rep_counter/new/bicepcurl/out/0.0/58.jpg,file:$HOME/src/py/rep_counter/new/bicepcurl/out/0.0/51.jpg,file:$HOME/src/py/rep_counter/new/bicepcurl/out/0.0/52.jpg,file:$HOME/src/py/rep_counter/new/bicepcurl/out/0.0/41.jpg,file:$HOME/src/py/rep_counter/new/bicepcurl/out/0.0/34.jpg,file:$HOME/src/py/rep_counter/new/bicepcurl/out/0.0/35.jpg,file:$HOME/src/py/rep_counter/new/bicepcurl/out/0.0/26.jpg,file:$HOME/src/py/rep_counter/new/bicepcurl/out/0.0/19.jpg,file:$HOME/src/py/rep_counter/new/bicepcurl/out/0.0/14.jpg,file:$HOME/src/py/rep_counter/new/bicepcurl/out/0.0/15.jpg,file:$HOME/src/py/rep_counter/new/bicepcurl/out/0.0/10.jpg,file:$HOME/src/py/rep_counter/new/bicepcurl/out/0.0/4.jpg
+Recent URLs[$e]=file:$HOME/src/py/rep_counter/new/bicepcurl/out/0.0/,file:$HOME/Documents/,file:$HOME/
 detailViewIconSize=16
 
 [KRenameWindowSettings]
-RestorePositionForNextInstance=false
 eDP1 Height 1920x1080=751
 eDP1 Width 1920x1080=932
-eDP1 XPosition 1920x1080=354
-eDP1 YPosition 1920x1080=329
+eDP1 XPosition 1920x1080=183
+eDP1 YPosition 1920x1080=75
 
 [PluginSettings]
 JavaScriptDefinitions=

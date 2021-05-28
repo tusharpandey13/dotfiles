@@ -38,7 +38,7 @@ immutability=0
 plugin=org.kde.plasma.systemtray
 
 [Containments][25][Applets][27][Configuration]
-PreloadWeight=100
+PreloadWeight=92
 SystrayContainmentId=28
 
 [Containments][25][ConfigDialog]
@@ -65,7 +65,7 @@ immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][28][Applets][29][Configuration]
-PreloadWeight=100
+PreloadWeight=92
 
 [Containments][28][Applets][29][Configuration][ConfigDialog]
 DialogHeight=840
@@ -89,7 +89,7 @@ immutability=1
 plugin=org.kde.plasma.devicenotifier
 
 [Containments][28][Applets][31][Configuration]
-PreloadWeight=100
+PreloadWeight=84
 
 [Containments][28][Applets][31][Configuration][ConfigDialog]
 DialogHeight=840
@@ -124,7 +124,7 @@ immutability=1
 plugin=org.kde.plasma.notifications
 
 [Containments][28][Applets][35][Configuration]
-PreloadWeight=17
+PreloadWeight=11
 
 [Containments][28][Applets][36]
 immutability=1
@@ -138,7 +138,7 @@ immutability=1
 plugin=org.kde.plasma.battery
 
 [Containments][28][Applets][37][Configuration]
-PreloadWeight=10
+PreloadWeight=0
 
 [Containments][28][Applets][37][Shortcuts]
 global=Meta+B
@@ -155,7 +155,7 @@ immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][28][Applets][39][Configuration]
-PreloadWeight=100
+PreloadWeight=92
 
 [Containments][28][Applets][39][Shortcuts]
 global=Meta+C
@@ -228,7 +228,7 @@ PreloadWeight=0
 [Containments][46][General]
 ToolBoxButtonState=topcenter
 ToolBoxButtonX=495
-positions=1,15,file:///home/tushar/tmp/tmpdesktop/chromium,0,4,file:///home/tushar/tmp/tmpdesktop/learn,0,0,file:///home/tushar/tmp/tmpdesktop/src,0,1,file:///home/tushar/tmp/tmpdesktop/tushar,0,2,file:///home/tushar/tmp/tmpdesktop/v,0,3
+positions=1,15,file:///home/tushar/tmp/tmpdesktop/tushar,0,2,file:///home/tushar/tmp/tmpdesktop/v,0,3,file:///home/tushar/tmp/tmpdesktop/learn,0,0,file:///home/tushar/tmp/tmpdesktop/src,0,1,file:///home/tushar/tmp/tmpdesktop/chromium,0,4
 sortMode=-1
 url=/home/tushar/tmp/tmpdesktop
 
@@ -257,4 +257,4 @@ SlidePaths=/home/tushar/.local/share/wallpapers,/usr/share/wallpapers
 
 [ScreenMapping]
 itemsOnDisabledScreens=0,42,desktop:/REC20200712190102.mp3,desktop:/PWIP.postman_collection.json,desktop:/chrome-ljencpkfbmahjfhepjlnokmmfipcbcld-Default.desktop,desktop:/comics.csv,desktop:/chrome-obcppbejhdfcplncjdlmagmpfjhmipii-Default.desktop,desktop:/u1902.exe,desktop:/Screenshot_2019-10-30_17-32-20.png,desktop:/vivaldi-ljencpkfbmahjfhepjlnokmmfipcbcld-Default.desktop,desktop:/Vienna_subway.csv,desktop:/chrome-olheigmnhdlofgjiponfkcnofipcljko-Default.desktop,desktop:/XiaomiADBFastbootTools-6.8.1-Linux,desktop:/new.mp3,desktop:/Untitled 1.docx,desktop:/Screenshot_2019-11-03_18-21-40.png,desktop:/Screenshot_2019-10-28_11-59-59.png,desktop:/Screenshot_2019-10-22_19-07-13.png,desktop:/resignation_letter,desktop:/Screenshot_2019-11-03_02-12-25.png,desktop:/Screenshot_2019-10-23_21-40-15.png,desktop:/1.jpg,desktop:/Screenshot_2019-10-28_11-39-37.png,desktop:/Screenshot_2019-10-22_19-08-08.png,desktop:/todo,desktop:/Screenshot_2019-10-27_21-00-19.png,desktop:/Screenshot_2019-10-22_19-07-30.png,desktop:/Screenshot_2019-11-03_18-21-18.png,desktop:/chrome-ajdemkepbiggbelkgicfebbjokenncei-Default.desktop,desktop:/Screenshot_2019-11-03_00-54-28.png,desktop:/chrome-hpfldicfbfomlpcikngkocigghgafkph-Default.desktop,desktop:/Screenshot_20190322_151724.png,desktop:/Silicon.Valley.S04E10.HDTV.x264-SVA.srt,desktop:/Screenshot_2019-10-22_20-03-24.png,desktop:/Screenshot_2019-11-01_22-43-02.png,desktop:/Screenshot_2019-10-28_08-53-40.png,desktop:/Screenshot_2019-10-24_15-59-07.png,desktop:/IMG_20180808_085919.jpg,desktop:/Screenshot_20190208_231513.png,desktop:/y.png,desktop:/Screenshot_2019-10-22_19-12-19.png,desktop:/PANO_20190224_173754-03.jpeg,desktop:/u.ini,desktop:/REC20200715211457.mp3
-screenMapping=file:///home/tushar/tmp/tmpdesktop/v,0,file:///home/tushar/tmp/tmpdesktop/src,0,file:///home/tushar/tmp/tmpdesktop/learn,0,file:///home/tushar/tmp/tmpdesktop/chromium,0,file:///home/tushar/tmp/tmpdesktop/tushar,0,file:///home/tushar/tmp/tmpdesktop/chrm.desktop,0
+screenMapping=file:///home/tushar/tmp/tmpdesktop/src,0,file:///home/tushar/tmp/tmpdesktop/tushar,0,file:///home/tushar/tmp/tmpdesktop/chrm.desktop,0,file:///home/tushar/tmp/tmpdesktop/v,0,file:///home/tushar/tmp/tmpdesktop/chromium,0,file:///home/tushar/tmp/tmpdesktop/learn,0

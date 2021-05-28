@@ -54,7 +54,6 @@ TabBoxAlternative=false
 
 [Effect-Cube]
 BorderActivate=9
-BorderActivateSphere=9
 TouchBorderActivate=9
 TouchBorderActivateCylinder=9
 TouchBorderActivateSphere=9
@@ -70,7 +69,7 @@ TabBoxAlternative=false
 
 [Effect-PresentWindows]
 BorderActivate=3
-BorderActivateAll=5
+BorderActivateAll=4,5
 BorderActivateClass=9
 TouchBorderActivate=7
 TouchBorderActivateAll=9

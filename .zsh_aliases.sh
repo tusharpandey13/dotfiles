@@ -1,8 +1,5 @@
-# User configuration
-
 
  alias zshconfig="vim ~/.zsh_aliases.sh && source ~/.zshrc"
- alias ad="aria2c -c --max-connection-per-server=16 --split=16 --min-split-size=1M --human-readable=true"
  alias pm="yay -S"
  alias reloadzsh="source ~/.zshrc"
  alias cleanpacman="sudo ~/cleanpacman.sh"
@@ -45,8 +42,17 @@ alias code='/usr/bin/code-oss --force-device-scale-factor=1 --ignore-gpu-blockli
  alias downloadsubs="py /home/tushar/download_en_subs.py -d"
  alias backup_dotfiles="sh /home/tushar/backup_dotfiles.sh"
 
+
 # FUNCTIONS
 
+function ad() {
+	aria2c -c --max-connection-per-server=16 --split=16 --min-split-size=1M --human-readable=true "${1}";
+	rem "$(basename "${1}") download complete";
+}
+
+function remat() {
+	echo "notify-send "${0}"" | at ${1};
+}
 
 function cd() {
   if [ "$#" = "0" ]

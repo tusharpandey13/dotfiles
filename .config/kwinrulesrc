@@ -2,14 +2,24 @@
 update_info=kwinrules.upd:replace-placement-string-to-enum
 
 [1]
-Description=Application settings for qtcreator
+Description=Application settings for konsole
 clientmachinematch=0
-decocolor=BreezeDark1Subl3
+decocolor=McMojave
 decocolorrule=2
-wmclass=qtcreator
+wmclass=konsole
 wmclassmatch=1
 
 [10]
+Description=Application settings for telegramdesktop
+clientmachine=localhost
+clientmachinematch=0
+decocolor=BreezeDark1
+decocolorrule=2
+wmclass=telegram-desktop telegramdesktop
+wmclasscomplete=true
+wmclassmatch=1
+
+[11]
 Description=Application settings for code-oss
 clientmachine=localhost
 clientmachinematch=0
@@ -18,38 +28,37 @@ title=settings.json - api-new - Code - OSS
 wmclass=code-oss
 wmclassmatch=1
 
-[11]
+[12]
 Description=Application settings for xfce4-terminal
 clientmachine=localhost
 clientmachinematch=0
 decocolor=ArcDarkXfceTerminal
 decocolorrule=2
-wmclass=xfce4-terminal
-wmclassmatch=1
-
-[12]
-Description=qmmp
-clientmachinematch=0
 noborder=false
-skipswitcher=true
-skipswitcherrule=2
 titlematch=0
-type=5
-typerule=2
-types=256
-wmclass=qmmp
+wmclass=xfce4-terminal
 wmclasscomplete=false
 wmclassmatch=1
 
 [13]
-Description=Settings for chromium
+Description=qmmp
 clientmachinematch=0
+skipswitcher=true
+skipswitcherrule=2
+type=5
+typerule=2
+types=256
+wmclass=qmmp
+wmclassmatch=1
+
+[14]
+Description=Settings for chromium
 noborderrule=2
 types=959
 wmclass=chromium
 wmclassmatch=1
 
-[14]
+[15]
 Description=Window settings for Sublime Text (UNREGISTERED)
 decocolor=BreezeDark1Subl3
 decocolorrule=2
@@ -58,7 +67,7 @@ wmclass=subl subl
 wmclasscomplete=true
 wmclassmatch=1
 
-[15]
+[16]
 Description=Settings for gl mpv
 blockcompositingrule=2
 wmclass=gl mpv
@@ -66,36 +75,43 @@ wmclasscomplete=true
 wmclassmatch=1
 
 [2]
+Description=Application settings for qtcreator
+clientmachinematch=0
+decocolor=BreezeDark1Subl3
+decocolorrule=2
+titlematch=0
+wmclass=qtcreator
+wmclassmatch=1
+
+[3]
 Description=Application settings for mpv
 clientmachinematch=0
+fsplevel=0
 noborder=true
 noborderrule=2
-titlematch=0
 wmclass=gl mpv
 wmclasscomplete=true
 wmclassmatch=1
 
-[3]
+[4]
 Description=Application settings for abricotine
 clientmachinematch=0
 decocolor=McMojaveabricotine
 decocolorrule=2
+fpplevel=0
 fsplevel=0
 wmclass=abricotine
-wmclasscomplete=false
 wmclassmatch=1
 
-[4]
+[5]
 Description=Application settings for kitty
 clientmachinematch=0
 decocolor=McMojave
 decocolorrule=2
-fpplevel=0
-fsplevel=0
 wmclass=kitty
 wmclassmatch=1
 
-[5]
+[6]
 Description=Window settings for deadbeef
 clientmachine=localhost
 clientmachinematch=0
@@ -107,28 +123,26 @@ types=1
 wmclass=deadbeef
 wmclassmatch=1
 
-[6]
+[7]
 Description=Window settings for telegramdesktop
 clientmachinematch=0
 decocolor=BreezeDark1Telegram
 decocolorrule=2
-titlematch=0
 types=1
 wmclass=telegram-desktop-bin telegramdesktop
 wmclasscomplete=true
 wmclassmatch=1
 
-[7]
+[8]
 Description=Application settings for sublime_text
 clientmachine=localhost
 clientmachinematch=0
 decocolor=BreezeDark1Subl3
 decocolorrule=2
 wmclass=sublime_text
-wmclasscomplete=false
 wmclassmatch=1
 
-[8]
+[9]
 Description=Application settings for okular
 clientmachinematch=0
 decocolor=McMojaveLightokular
@@ -136,15 +150,5 @@ decocolorrule=1
 wmclass=okular
 wmclassmatch=1
 
-[9]
-Description=Application settings for telegramdesktop
-clientmachine=localhost
-clientmachinematch=0
-decocolor=BreezeDark1
-decocolorrule=2
-wmclass=telegram-desktop telegramdesktop
-wmclasscomplete=true
-wmclassmatch=1
-
 [General]
-count=15
+count=16

@@ -41,9 +41,9 @@ eDP1 Width 1536=1204
 eDP1 Width 1920=1389
 eDP1 Width 1920x1080=1541
 eDP1 XPosition=257
-eDP1 XPosition 1920x1080=126
+eDP1 XPosition 1920x1080=166
 eDP1 YPosition=144
-eDP1 YPosition 1920x1080=96
+eDP1 YPosition 1920x1080=86
 
 [Open-with settings]
 CompletionMode=1

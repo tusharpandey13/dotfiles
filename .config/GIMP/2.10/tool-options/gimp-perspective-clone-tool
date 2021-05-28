@@ -5,7 +5,8 @@
 (dynamics "Dynamics Off")
 (pattern "Pine")
 (palette "Color History")
-(brush-size 49)
+(brush-size 26)
+(brush-aspect-ratio 3.1578947368421053)
 (brush-hardness 0.94999998807907104)
 (brush-force 1)
 

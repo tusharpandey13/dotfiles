@@ -20,9 +20,9 @@ shouldShowMenuBarComingFromFullScreen=false
 shouldShowToolBarComingFromFullScreen=true
 
 [KFileDialog Settings]
-Recent Files[$e]=unixhatershandbook.pdf,file:$HOME/t/learn/unixhatershandbook.pdf
-Recent URLs[$e]=file:$HOME/t/learn/
-detailViewIconSize=0
+Recent Files[$e]=unixhatershandbook.pdf,file:$HOME/Downloads/a.txt,file:$HOME/t/learn/unixhatershandbook.pdf
+Recent URLs[$e]=file:$HOME/t/learn/,file:$HOME/Downloads/
+detailViewIconSize=16
 
 [MainWindow]
 Height 1080=683
@@ -30,7 +30,8 @@ Height 768=743
 Height 864=524
 Height 875=581
 Height 900=874
-State=AAAA/wAAAAD9AAAAAAAABQAAAAJqAAAABAAAAAQAAAAIAAAACPwAAAAFAAAAAAAAAAAAAAABAAAAAAAAAAIAAAAAAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAAAAAGegAAAAAAAAAAAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAGev////8CDQzDAEiB3gAAAAMAAAAA
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPpAAAABAAAAAQAAAAIAAAACPwAAAAFAAAAAAAAAAAAAAABAAAAAAAAAAIAAAAAAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAAAAAGegAAAAAAAAAAAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAGev////8CDQzDAEiB3gAAAAMAAAAA
 ToolBarsMovable=Disabled
 Width 1368=1368
 Width 1400=1065
@@ -46,34 +47,39 @@ eDP1 Height 1920x1080=653
 eDP1 Height 864=803
 eDP1 Width 1536=1024
 eDP1 Width 1920=1246
-eDP1 Width 1920x1080=1280
+eDP1 Width 1920x1080=960
+eDP1 Window-Maximized 1920x1080=true
 eDP1 Window-Maximized 864x1536=true
 eDP1 XPosition=0
-eDP1 XPosition 1920x1080=369
+eDP1 XPosition 1920x1080=0
 eDP1 YPosition=41
-eDP1 YPosition 1920x1080=135
+eDP1 YPosition 1920x1080=43
+
+[Print Preview]
+eDP1 Height 1920x1080=500
+eDP1 Width 1920x1080=600
 
 [Recent Files]
-File1[$e]=$HOME/tmp/tmpdesktop/tushar/Downloads/doc/Tushar Pandey Resume.pdf
-File10[$e]=$HOME/README.md
-File2[$e]=$HOME/Downloads/doc/Tushar Pandey Resume.pdf
-File3[$e]=$HOME/Downloads/doc/Literature_Review_of_Text_detection_from_occluded_natural_scene_images.pdf
-File4[$e]=$HOME/tmp/tmpdesktop/learn/books/All Dune books + short stories + extras ePUB/Original Dune series/1 - Dune - Frank Herbert (1965).epub
-File5[$e]=$HOME/Downloads/doc/mediacloud_proposal_2021_tushar_pandey.pdf
-File6[$e]=$HOME/Downloads/doc/Profile(2).pdf
-File7[$e]=$HOME/Downloads/doc/ESLII_print10.pdf
-File8[$e]=$HOME/Downloads/doc/the-road-to-learn-react.pdf
-File9[$e]=$HOME/t/learn/cs/books/dl/FranÃ§ois Chollet - Deep Learning with Python-Manning (2018).pdf
-Name1[$e]=Tushar Pandey Resume.pdf
-Name10[$e]=README.md
-Name2[$e]=Tushar Pandey Resume.pdf
-Name3[$e]=Literature_Review_of_Text_detection_from_occluded_natural_scene_images.pdf
-Name4[$e]=1 - Dune - Frank Herbert (1965).epub
-Name5[$e]=mediacloud_proposal_2021_tushar_pandey.pdf
-Name6[$e]=Profile(2).pdf
-Name7[$e]=ESLII_print10.pdf
-Name8[$e]=the-road-to-learn-react.pdf
-Name9[$e]=FranÃ§ois Chollet - Deep Learning with Python-Manning (2018).pdf
+File1[$e]=$HOME/tmp/tmpdesktop/learn/cs/notes/sscd/Textbooks/Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman - Compilers - Principles, Techniques, and Tools-Pearson_Addison Wesley (2006).pdf
+File10[$e]=$HOME/tmp/tmpdesktop/learn/cs/notes/wta/18CS63-WTA-1st Test Case study.pdf
+File2[$e]=$HOME/tmp/tmpdesktop/learn/cs/cssyll.pdf
+File3[$e]=$HOME/tmp/tmpdesktop/learn/cs/notes/sscd/Textbooks/03. lex and yacc by John R. Levine, Tony Mason, Doug Brown (z-lib.org) (1).pdf
+File4[$e]=$HOME/tmp/tmpdesktop/learn/cs/notes/sscd/Textbooks/01. System Software An Introduction To Systems Programming by Leland L. Beck (z-lib.org).pdf
+File5[$e]=$HOME/tmp/tmpdesktop/learn/cs/notes/sscd/Textbooks/case.pdf
+File6[$e]=$HOME/tmp/tmpdesktop/learn/cs/notes/cg/cg case study ia1.pdf
+File7[$e]=$HOME/tmp/tmpdesktop/learn/cs/notes/cg/CGV_MOD2_SHANKAR.pdf
+File8[$e]=$HOME/tmp/tmpdesktop/learn/cs/notes/cg/SOL_MOD_2.pdf
+File9[$e]=$HOME/tmp/tmpdesktop/learn/cs/notes/cg/SOL_MOD_1.pdf
+Name1[$e]=Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman - Compilers - Principles, Techniques, and Tools-Pearson_Addison Wesley (2006).pdf
+Name10[$e]=18CS63-WTA-1st Test Case study.pdf
+Name2[$e]=cssyll.pdf
+Name3[$e]=03. lex and yacc by John R. Levine, Tony Mason, Doug Brown (z-lib.org) (1).pdf
+Name4[$e]=01. System Software An Introduction To Systems Programming by Leland L. Beck (z-lib.org).pdf
+Name5[$e]=case.pdf
+Name6[$e]=cg case study ia1.pdf
+Name7[$e]=CGV_MOD2_SHANKAR.pdf
+Name8[$e]=SOL_MOD_2.pdf
+Name9[$e]=SOL_MOD_1.pdf
 
 [Toolbar mainToolBar]
 IconSize=32

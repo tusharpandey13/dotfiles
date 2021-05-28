@@ -2,7 +2,7 @@
 LastMimeType=application/zip
 
 [ExtractDialog]
-DirHistory[$e]=$HOME/w/,$HOME/tmp/,$HOME/tmp/tmpbackup/latest/,$HOME/src/py/60002/,$HOME/src/repo/express-mongoose-boilerplate/src/,$HOME/src/tmp/,$HOME/Downloads/,$HOME/Documents/,$HOME/t/learn/cs/VTU-CSE-LAB-SOLUTIONS/cnl/,$HOME/t/learn/CS Degree/VTU-CSE-LAB-SOLUTIONS/
+DirHistory[$e]=$HOME/Downloads/other/,$HOME/w/,$HOME/tmp/,$HOME/tmp/tmpbackup/latest/,$HOME/src/py/60002/,$HOME/src/repo/express-mongoose-boilerplate/src/,$HOME/src/tmp/,$HOME/Downloads/,$HOME/Documents/,$HOME/t/learn/cs/VTU-CSE-LAB-SOLUTIONS/cnl/
 eDP1 Height 1080=720
 eDP1 Width 1920=1319
 
@@ -12,7 +12,7 @@ openDestinationFolderAfterExtraction=true
 
 [KFileDialog Settings]
 Recent Files[$e]=file:$HOME
-Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/t/learn/cs/VTU-CSE-LAB-SOLUTIONS/,file:$HOME/t/learn/cs/,file:$HOME/,file:$HOME/Documents/,file:$HOME/src/,file:$HOME/src/repo/express-mongoose-boilerplate/src/,file:$HOME/src/py/60002/,file:$HOME/tmp/,file:$HOME/w/
+Recent URLs[$e]=file:$HOME/t/learn/cs/,file:$HOME/,file:$HOME/Documents/,file:$HOME/src/,file:$HOME/src/repo/express-mongoose-boilerplate/src/,file:$HOME/src/py/60002/,file:$HOME/tmp/,file:$HOME/w/,file:$HOME/Downloads/other/,file:$HOME/Downloads/
 detailViewIconSize=16
 iconViewIconSize=16
 listViewIconSize=15
@@ -136,10 +136,16 @@ File1[$e]=zip:/home/tushar/Downloads/TF_Template_Word_Windows_2016.zip/TF_Templa
 File2[$e]=$HOME/Downloads/Untitled spreadsheet.xlsx
 File3[$e]=$HOME/tmp/tmpdesktop/learn/books/Assorted Fantasy/Grimms Fairy Tales/Grimms Fairy Tales.rar
 File4[$e]=$HOME/Downloads/The_Americans - season 1.en.zip
+File5[$e]=$HOME/Downloads/Quicksand.zip
+File6[$e]=$HOME/Downloads/Vollkorn.zip
+File7[$e]=$HOME/Downloads/EB_Garamond.zip
 Name1[$e]=TF_Template_Word_Windows_2016.dotx
 Name2[$e]=Untitled spreadsheet.xlsx
 Name3[$e]=Grimms Fairy Tales.rar
 Name4[$e]=The_Americans - season 1.en.zip
+Name5[$e]=Quicksand.zip
+Name6[$e]=Vollkorn.zip
+Name7[$e]=EB_Garamond.zip
 
 [Viewer]
 Height 1080=762

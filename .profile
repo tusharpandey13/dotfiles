@@ -11,3 +11,4 @@
 export PATH=$PATH:/home/tushar/.node/bin
 QT_LOGGING_RULES=’*=false’
 export QT_LOGGING_RULES
+export GDK_DPI_SCALE=1.25

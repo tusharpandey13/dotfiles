@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE documentInfo>
-<documentInfo url="/home/tushar/Downloads/CG_LAB_ALL.pdf">
+<documentInfo url="/home/tushar/t/learn/cs/notes/cglab/CG_LAB_ALL.pdf">
  <generalInfo>
   <history>
-   <oldPage viewport="4;C2:0.499464:0.992093:1"/>
-   <oldPage viewport="5;C2:0.499464:0.00338855:1"/>
-   <oldPage viewport="4;C2:0.499464:1.00264:1"/>
-   <oldPage viewport="5;C2:0.499464:1.00414:1"/>
-   <oldPage viewport="6;C2:0.499464:1.00414:1"/>
-   <oldPage viewport="7;C2:0.499464:1.00339:1"/>
-   <oldPage viewport="8;C2:0.499464:-0.00263554:1"/>
-   <oldPage viewport="7;C2:0.499464:1.00339:1"/>
-   <oldPage viewport="8;C2:0.499464:1.00038:1"/>
-   <oldPage viewport="9;C2:0.499464:1.00264:1"/>
-   <current viewport="10;C2:0.499464:0.00414157:1"/>
+   <oldPage viewport="47;C2:0.5:0.00888626:1"/>
+   <oldPage viewport="46;C2:0.5:1.00533:1"/>
+   <oldPage viewport="47;C2:0.5:1.00533:1"/>
+   <oldPage viewport="48;C2:0.5:1.00533:1"/>
+   <oldPage viewport="49;C2:0.5:0.992299:1"/>
+   <oldPage viewport="50;C2:0.5:0.994668:1"/>
+   <oldPage viewport="51;C2:0.499438:0.994866:1"/>
+   <oldPage viewport="52;C2:0.499438:0.995656:1"/>
+   <oldPage viewport="53;C2:0.499438:-0.00434439:1"/>
+   <oldPage viewport="52;C2:0.499438:-0.00118483:1"/>
+   <current viewport="51;C2:0.499438:0.407978:1"/>
   </history>
   <views>
    <view name="PageView">
-    <zoom value="0.786856" mode="1"/>
+    <zoom mode="0" value="0.75"/>
     <continuous mode="1"/>
     <viewMode mode="0"/>
     <trimMargins value="0"/>

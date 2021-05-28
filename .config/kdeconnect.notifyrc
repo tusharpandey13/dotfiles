@@ -1,3 +1,21 @@
+[Event/batteryLow]
+Execute=
+Logfile=
+Sound=
+TTS=
+
+[Event/callReceived]
+Execute=
+Logfile=
+Sound=
+TTS=
+
+[Event/missedCall]
+Execute=
+Logfile=
+Sound=
+TTS=
+
 [Event/notification]
 Action=Popup
 Execute=
@@ -6,6 +24,12 @@ Sound=
 TTS=
 
 [Event/pairingRequest]
+Execute=
+Logfile=
+Sound=
+TTS=
+
+[Event/pingReceived]
 Execute=
 Logfile=
 Sound=
