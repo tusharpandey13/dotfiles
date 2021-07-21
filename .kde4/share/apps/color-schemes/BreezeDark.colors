@@ -19,100 +19,129 @@ IntensityAmount=0
 IntensityEffect=0
 
 [Colors:Button]
-BackgroundAlternate=77,77,77
+BackgroundAlternate=30,87,116
 BackgroundNormal=49,54,59
 DecorationFocus=61,174,233
 DecorationHover=61,174,233
 ForegroundActive=61,174,233
-ForegroundInactive=189,195,199
-ForegroundLink=41,128,185
+ForegroundInactive=161,169,177
+ForegroundLink=29,153,243
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
-ForegroundNormal=239,240,241
+ForegroundNormal=252,252,252
 ForegroundPositive=39,174,96
-ForegroundVisited=127,140,141
+ForegroundVisited=155,89,182
+
+[Colors:Complementary]
+BackgroundAlternate=30,87,116
+BackgroundNormal=42,46,50
+DecorationFocus=61,174,233
+DecorationHover=61,174,233
+ForegroundActive=61,174,233
+ForegroundInactive=161,169,177
+ForegroundLink=29,153,243
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=252,252,252
+ForegroundPositive=39,174,96
+ForegroundVisited=155,89,182
+
+[Colors:Header]
+BackgroundAlternate=42,46,50
+BackgroundNormal=49,54,59
+DecorationFocus=61,174,233
+DecorationHover=61,174,233
+ForegroundActive=61,174,233
+ForegroundInactive=161,169,177
+ForegroundLink=29,153,243
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=252,252,252
+ForegroundPositive=39,174,96
+ForegroundVisited=155,89,182
+
+[Colors:Header][Inactive]
+BackgroundAlternate=49,54,59
+BackgroundNormal=42,46,50
+DecorationFocus=61,174,233
+DecorationHover=61,174,233
+ForegroundActive=61,174,233
+ForegroundInactive=161,169,177
+ForegroundLink=29,153,243
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=252,252,252
+ForegroundPositive=39,174,96
+ForegroundVisited=155,89,182
 
 [Colors:Selection]
-BackgroundAlternate=29,153,243
+BackgroundAlternate=30,87,116
 BackgroundNormal=61,174,233
 DecorationFocus=61,174,233
 DecorationHover=61,174,233
 ForegroundActive=252,252,252
-ForegroundInactive=239,240,241
+ForegroundInactive=161,169,177
 ForegroundLink=253,188,75
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
-ForegroundNormal=239,240,241
+ForegroundNormal=252,252,252
 ForegroundPositive=39,174,96
-ForegroundVisited=189,195,199
+ForegroundVisited=155,89,182
 
 [Colors:Tooltip]
-BackgroundAlternate=77,77,77
+BackgroundAlternate=42,46,50
 BackgroundNormal=49,54,59
 DecorationFocus=61,174,233
 DecorationHover=61,174,233
 ForegroundActive=61,174,233
-ForegroundInactive=189,195,199
-ForegroundLink=41,128,185
+ForegroundInactive=161,169,177
+ForegroundLink=29,153,243
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
-ForegroundNormal=239,240,241
+ForegroundNormal=252,252,252
 ForegroundPositive=39,174,96
-ForegroundVisited=127,140,141
+ForegroundVisited=155,89,182
 
 [Colors:View]
-BackgroundAlternate=49,54,59
-BackgroundNormal=35,38,41
+BackgroundAlternate=35,38,41
+BackgroundNormal=27,30,32
 DecorationFocus=61,174,233
 DecorationHover=61,174,233
 ForegroundActive=61,174,233
-ForegroundInactive=189,195,199
-ForegroundLink=41,128,185
+ForegroundInactive=161,169,177
+ForegroundLink=29,153,243
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
-ForegroundNormal=239,240,241
+ForegroundNormal=252,252,252
 ForegroundPositive=39,174,96
-ForegroundVisited=127,140,141
+ForegroundVisited=155,89,182
 
 [Colors:Window]
-BackgroundAlternate=77,77,77
-BackgroundNormal=49,54,59
+BackgroundAlternate=49,54,59
+BackgroundNormal=42,46,50
 DecorationFocus=61,174,233
 DecorationHover=61,174,233
 ForegroundActive=61,174,233
-ForegroundInactive=189,195,199
-ForegroundLink=41,128,185
+ForegroundInactive=161,169,177
+ForegroundLink=29,153,243
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
-ForegroundNormal=239,240,241
+ForegroundNormal=252,252,252
 ForegroundPositive=39,174,96
-ForegroundVisited=127,140,141
-
-[Colors:Complementary]
-BackgroundAlternate=59,64,69
-BackgroundNormal=49,54,59
-DecorationFocus=30,146,255
-DecorationHover=61,174,230
-ForegroundActive=246,116,0
-ForegroundInactive=175,176,179
-ForegroundLink=61,174,230
-ForegroundNegative=237,21,21
-ForegroundNeutral=201,206,59
-ForegroundNormal=239,240,241
-ForegroundPositive=17,209,22
-ForegroundVisited=61,174,230
+ForegroundVisited=155,89,182
 
 [General]
-ColorScheme=Breeze Dark
+ColorScheme=BreezeDark
 Name=Breeze Dark
 Name[ar]=نسيم داكن
+Name[az]=Breeze - Tünd
 Name[bs]=Breeze tamna
 Name[ca]=Brisa fosca
 Name[ca@valencia]=Brisa fosca
 Name[cs]=Breeze Tmavé
 Name[da]=Breeze Dark
 Name[de]=Breeze-Dunkel
-Name[el]=Σκοτεινό Breeze
+Name[el]=Breeze σκούρο
 Name[en_GB]=Breeze Dark
 Name[es]=Brisa oscuro
 Name[et]=Breeze tume
@@ -133,11 +162,11 @@ Name[nn]=Breeze mørk
 Name[pa]=ਬਰੀਜ਼ ਗੂੜ੍ਹਾ
 Name[pl]=Ciemna bryza
 Name[pt]=Brisa Escura
-Name[pt_BR]=Breeze Escuro
+Name[pt_BR]=Breeze Dark
 Name[ro]=Briză, întunecat
 Name[ru]=Breeze, тёмный вариант
 Name[sk]=Tmavý vánok
-Name[sl]=Sapica (temna)
+Name[sl]=Sapica temna
 Name[sr]=Поветарац тамни
 Name[sr@ijekavian]=Поветарац тамни
 Name[sr@ijekavianlatin]=Povetarac tamni
@@ -147,7 +176,7 @@ Name[tg]=Насими торик
 Name[tr]=Koyu Esinti
 Name[uk]=Темна Breeze
 Name[x-test]=xxBreeze Darkxx
-Name[zh_CN]=暗色微风
+Name[zh_CN]=Breeze 微风暗色
 Name[zh_TW]=Breeze Dark
 shadeSortColumn=true
 
@@ -156,8 +185,8 @@ contrast=4
 
 [WM]
 activeBackground=49,54,59
-activeBlend=255,255,255
-activeForeground=239,240,241
-inactiveBackground=49,54,59
-inactiveBlend=75,71,67
-inactiveForeground=127,140,141
+activeBlend=252,252,252
+activeForeground=252,252,252
+inactiveBackground=42,46,50
+inactiveBlend=161,169,177
+inactiveForeground=161,169,177

@@ -1,4 +1,3 @@
-
  alias zshconfig="vim ~/.zsh_aliases.sh && source ~/.zshrc"
  alias pm="yay -S"
  alias reloadzsh="source ~/.zshrc"
@@ -21,7 +20,6 @@
  alias pmn='sudo pacman' 
  alias mountwin='sudo mount /dev/sda3 /run/media/tushar/OS && sudo mount /dev/sda8 /run/media/tushar/DATA'
  alias umountwin='sudo umount /dev/sda3 && sudo umount /dev/sda8'
-#alias gcln='git clone'
 alias code='/usr/bin/code-oss --force-device-scale-factor=1 --ignore-gpu-blocklist --enable-gpu-rasterization --enable-oop-rasterization --unity-launch --no-sandbox -n .'
  alias seed='~/seed.py'
  alias pullhead='git pull origin $(git rev-parse --abbrev-ref HEAD)'
@@ -42,8 +40,34 @@ alias code='/usr/bin/code-oss --force-device-scale-factor=1 --ignore-gpu-blockli
  alias downloadsubs="py /home/tushar/download_en_subs.py -d"
  alias backup_dotfiles="sh /home/tushar/backup_dotfiles.sh"
 
-
 # FUNCTIONS
+
+function jpgcompress(){
+	convert $1 -quality 50 -resize 1024x "compressed_$1"
+}
+
+function yt(){
+	filename="$(echo "$HOME/t/v/yt/$(yttitle $1)" | cut -f 1 -d '.').mp4";
+	echo $filename;
+	if [ -f "$filename" ]; then
+		mpv "$filename";
+	else
+		(cd $HOME/t/v/yt && youtube-dl --write-auto-sub --skip-download $1&)
+		mpv --stream-record=$filename --ytdl-format="(best[height<=$2]/bestvideo+bestaudio)" "$1";
+	fi
+}
+
+function yttitle(){
+#	curl "$1" -so - | grep -iPo '(?<=<title>)(.*)(?=</title>)' | recode html..ascii;
+youtube-dl "$1" --get-filename;
+}
+
+
+function gitnewbranch() {
+	git checkout --orphan "$1";
+	git rm --cached -r .;
+}
+
 
 function ad() {
 	aria2c -c --max-connection-per-server=16 --split=16 --min-split-size=1M --human-readable=true "${1}";
@@ -54,17 +78,17 @@ function remat() {
 	echo "notify-send "${0}"" | at ${1};
 }
 
-function cd() {
-  if [ "$#" = "0" ]
-  then
-  pushd ${HOME} > /dev/null
-  elif [ -f "${1}" ]
-  then
-    ${EDITOR} ${1}
-  else
-  pushd "$1" > /dev/null
-  fi
-}
+#function cd() {
+# if [ "$#" = "0" ]
+#  then
+#  pushd ${HOME} > /dev/null
+#  elif [ -f "${1}" ]
+#  then
+#    ${EDITOR} ${1}
+#  else
+#  pushd "$1" > /dev/null
+#  fi
+#}
 
 function bd(){
   if [ "$#" = "0" ]
@@ -78,6 +102,10 @@ function bd(){
   fi
 }
 
+function coli {
+	g++ -o $1 "$1.cpp" && echo "compiled and linked ./$1";
+}
+
 function coliru {
 	g++ -o $1 "$1.cpp" && ./"$1";
 }
@@ -88,6 +116,11 @@ function b64decode {
 
 function adurllist {
 	aria2c -c --dir=./ --input-file=$1 --max-concurrent-downloads=1 --connect-timeout=60 --max-connection-per-server=16 --split=16 --min-split-size=1M --human-readable=true --download-result=full --file-allocation=none
+}
+
+
+function webcamrecord144 {
+    ffmpeg -f v4l2 -framerate 30 -video_size 176x144 -i /dev/video0 $1;
 }
 
 function webcamrecord240 {
@@ -131,7 +164,7 @@ function gitu {
 }
 
 function gcln {
-    #https://github.com/sigoa/krunner-bridge
+   #https://github.com/sigoa/krunner-bridge
 
 	
    tmp="$(/bin/python3 /home/tushar/src/py/gcln.py $1)"
@@ -145,7 +178,10 @@ function gcln {
    # fi
    reponame=${tmp##*/}
    reponame=${reponame%.git}
-   git clone "$2" "$1" "$reponame";
+
+   #echo "${tmp}  2=$2  1=$1";
+
+   git clone "$tmp" "$reponame";
    cd "$reponame";
 }
 

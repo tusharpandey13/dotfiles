@@ -27,8 +27,8 @@ detailViewIconSize=16
 iconViewIconSize=100
 
 [KPropertiesDialog]
-eDP1 Height 1920x1080=654
-eDP1 Width 1920x1080=513
+eDP1 Height 1920x1080=614
+eDP1 Width 1920x1080=420
 
 [PlasmaRunnerManager]
 LaunchCounts=

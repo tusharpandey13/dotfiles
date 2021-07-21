@@ -1,3 +1,4 @@
+q!
 bind -f common m toggle aaa_mode
 bind -f common y toggle aaa_mode
 bind -f common toggle aaa_mode

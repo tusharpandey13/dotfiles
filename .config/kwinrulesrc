@@ -87,7 +87,6 @@ wmclassmatch=1
 Description=Application settings for mpv
 clientmachinematch=0
 fsplevel=0
-noborder=true
 noborderrule=2
 wmclass=gl mpv
 wmclasscomplete=true

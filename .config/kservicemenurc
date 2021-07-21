@@ -1,5 +1,6 @@
 [Show]
 KGetDownload=false
+Print=true
 compressfileitemaction=true
 copyurlitemaction=true
 extractfileitemaction=true
@@ -17,6 +18,7 @@ kleosignfilesopenpgp=false
 openKittyHere=true
 openTerminalHere=false
 plasmavaultfileitemaction=false
+rename=true
 runInKonsole=false
 sharefileitemaction=true
 slideshow=true

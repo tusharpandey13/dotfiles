@@ -169,6 +169,7 @@ kwin4_effect_windowapertureEnabled=false
 lattewindowcolorsEnabled=false
 magiclampEnabled=true
 minimizeallEnabled=false
+mousemarkEnabled=true
 movewindowtocenterEnabled=true
 shakeEnabled=false
 showpaintEnabled=true

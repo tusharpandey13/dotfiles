@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documentInfo>
+<documentInfo url="/home/tushar/Downloads/Visiting Card.pdf">
+ <generalInfo>
+  <history>
+   <oldPage viewport="0;C2:0.499736:0.610245:1"/>
+   <oldPage viewport="2;C2:0.5:0.915842:1"/>
+   <oldPage viewport="3;C2:0.5:0.0990099:1"/>
+   <oldPage viewport="2;C2:0.5:0.831683:1"/>
+   <oldPage viewport="3;C2:0.5:0.967684:1"/>
+   <oldPage viewport="4;C2:0.5:0.974865:1"/>
+   <current viewport="5;C2:0.499438:0.609005:1"/>
+  </history>
+  <views>
+   <view name="PageView">
+    <zoom mode="0" value="0.75"/>
+    <continuous mode="1"/>
+    <viewMode mode="0"/>
+    <trimMargins value="0"/>
+   </view>
+  </views>
+ </generalInfo>
+</documentInfo>

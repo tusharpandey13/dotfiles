@@ -1,22 +1,22 @@
 --style=java
---indent=tab=4
+--indent=spaces=2
 --max-code-length=100
 
 --keep-one-line-blocks
 
 --break-elseifs
---break-closing-braces
+
 
 --align-reference=type
 --align-pointer=type
 
 
---pad-comma
+
 --pad-oper
 --pad-header
 --unpad-paren
 
---add-braces
+
 --keep-one-line-blocks
 --keep-one-line-statements
---max-continuation-indent=75
+

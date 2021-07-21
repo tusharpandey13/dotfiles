@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE documentInfo>
-<documentInfo url="/home/tushar/tmp/tmpdesktop/learn/cs/notes/sscd/Textbooks/03. lex and yacc by John R. Levine, Tony Mason, Doug Brown (z-lib.org) (1).pdf">
+<documentInfo url="/home/tushar/t/learn/cs/notes/sscd/Textbooks/03. lex and yacc by John R. Levine, Tony Mason, Doug Brown (z-lib.org) (1).pdf">
  <generalInfo>
   <history>
-   <current viewport="0;C2:0.499736:0.243204:1"/>
+   <oldPage viewport="27;C2:0.499578:-0.00177725:1"/>
+   <oldPage viewport="26;C2:0.499578:1:1"/>
+   <oldPage viewport="27;C2:0.499578:0.976896:1"/>
+   <oldPage viewport="28;C2:0.499578:0.0385071:1"/>
+   <oldPage viewport="27;C2:0.499578:-0.0035545:1"/>
+   <oldPage viewport="26;C2:0.499578:0.00651659:1"/>
+   <oldPage viewport="25;C2:0.499578:-0.00118483:1"/>
+   <oldPage viewport="24;C2:0.499578:-0.00118483:1"/>
+   <oldPage viewport="23;C2:0.499578:0.0136256:1"/>
+   <oldPage viewport="22;C2:0.499578:0.976303:1"/>
+   <current viewport="23;C2:0.499578:0.589455:1"/>
   </history>
   <views>
    <view name="PageView">
-    <zoom value="1.5552" mode="1"/>
+    <zoom mode="0" value="1"/>
     <continuous mode="1"/>
     <viewMode mode="0"/>
     <trimMargins value="0"/>

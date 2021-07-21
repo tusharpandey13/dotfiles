@@ -14,10 +14,10 @@ useReleaseToCapture=false
 [GuiConfig]
 captureDelay=0
 captureMode=5
+cropRegion=254,170,843,819
 includeDecorations=true
-includePointer=true
 onClickChecked=true
-window-position=524,143
+window-position=870,174
 
 [KFileDialog Settings]
 Recent Files[$e]=file:$HOME/Desktop/Screenshot_20190208_231513.png,file:$HOME/Desktop/Screenshot_20190322_151724.png,file:$HOME/Pictures/Screenshot_20190221_215912.png
@@ -28,6 +28,6 @@ compressionQuality=90
 copySaveLocation=false
 defaultSaveLocation=file:///home/tushar/ss/
 lastSaveAsLocation=file:///home/tushar/Desktop/Screenshot_20190322_151724.png
-lastSaveLocation=file:///home/tushar/ss/Screenshot_20210528_152011.png
+lastSaveLocation=file:///home/tushar/ss/Screenshot_20210716_095744.png
 lastUsedSaveMode=1
 saveFilenameFormat=Screenshot_%Y%M%D_%H%m%S

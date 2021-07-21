@@ -6,6 +6,9 @@ Seen=true
 ShowInHistory=false
 ShowPopups=false
 
+[Applications][discord]
+Seen=true
+
 [Applications][firefox]
 Seen=true
 

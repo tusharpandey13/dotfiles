@@ -59,11 +59,11 @@ Width 1536=494
 Width 1600=449
 Width 1920=570
 eDP1 Height 1080=702
-eDP1 Height 1920x1080=629
+eDP1 Height 1920x1080=614
 eDP1 Height 864=616
 eDP1 Width 1536=494
 eDP1 Width 1920=615
-eDP1 Width 1920x1080=590
+eDP1 Width 1920x1080=460
 
 [MainWindow]
 Height 1080=689
@@ -75,7 +75,7 @@ Height 864=803
 Height 900=611
 MenuBar=Disabled
 RestorePositionForNextInstance=false
-State=AAAA/wAAAAD9AAAAAwAAAAAAAAC2AAACF/wCAAAAAvsAAAAQAGkAbgBmAG8ARABvAGMAawAAAAA2AAACFwAAABABAAAJ+wAAABYAZgBvAGwAZABlAHIAcwBEAG8AYwBrAAAAADoAAAOyAAAAEAEAAAkAAAABAAAA0QAAA7P8AgAAAAH7AAAAFABwAGwAYQBjAGUAcwBEAG8AYwBrAQAAADYAAAOzAAAAYwEAAAkAAAADAAADqwAAAZz8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAAAAADqwAAAMkBAAAJAAAC2QAAA7MAAAAEAAAABAAAAAgAAAAI/AAAAAIAAAACAAAAAAAAAAIAAAABAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAA==
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAC2AAADs/wCAAAAAvsAAAAQAGkAbgBmAG8ARABvAGMAawAAAAA2AAADswAAABABAAAJ+wAAABYAZgBvAGwAZABlAHIAcwBEAG8AYwBrAAAAADoAAAOyAAAAEAEAAAkAAAABAAAA2wAAA7P8AgAAAAH7AAAAFABwAGwAYQBjAGUAcwBEAG8AYwBrAQAAADYAAAOzAAAAYwEAAAkAAAADAAADkwAAAZz8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAAAAADkwAAAMkBAAAJAAACtwAAA7MAAAAEAAAABAAAAAgAAAAI/AAAAAIAAAACAAAAAAAAAAIAAAABAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAA==
 ToolBarsMovable=Disabled
 Width 1477=811
 Width 1536=876
@@ -92,9 +92,9 @@ eDP1 Height 1920x1080=1001
 eDP1 Height 864=803
 eDP1 Width 1536=885
 eDP1 Width 1920=960
-eDP1 Width 1920x1080=939
+eDP1 Width 1920x1080=915
 eDP1 XPosition=184
-eDP1 XPosition 1920x1080=1012
+eDP1 XPosition 1920x1080=397
 eDP1 YPosition=41
 eDP1 YPosition 1920x1080=43
 
@@ -106,13 +106,16 @@ ConfirmDelete=true
 
 [Open-with settings]
 CompletionMode=1
-History=chr,subl,sub,mpv,wps,shee,gwe,su,SUB,mouse,ark,call,mou,gwen,image
+History=ark,subl,writer,chr,ch,sub,mpv,wps,shee,gwe,su,SUB,mouse,call,mou
 
 [PlacesPanel]
 IconSize=32
 
 [PreviewSettings]
-Plugins=ebookthumbnail,directorythumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,windowsimagethumbnail,svgthumbnail
+Plugins=ebookthumbnail,directorythumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,windowsimagethumbnail,opendocumentthumbnail,svgthumbnail
+
+[Search]
+Location=Everywhere
 
 [SettingsDialog]
 Height 1080=542
@@ -120,7 +123,7 @@ Height 900=455
 Width 1600=540
 Width 1920=686
 eDP1 Height 1080=585
-eDP1 Height 1920x1080=685
+eDP1 Height 1920x1080=568
 eDP1 Width 1920=767
 eDP1 Width 1920x1080=726
 
