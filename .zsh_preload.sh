@@ -19,16 +19,16 @@ fi
 # MANJARO TWEAKS BEGIN
 
 ## Options section
-setopt correct						   # Auto correct mistakes
-#setopt extendedglob			   # Extended globbing. Allows using regular expressions with *
-setopt nocaseglob					   # Case insensitive globbing
-setopt rcexpandparam			   # Array expension with parameters
-#setopt nocheckjobs				   # Don't warn about running processes when exiting
-setopt numericglobsort		   # Sort filenames numerically when it makes sense
-setopt nobeep						     # No beep
-setopt appendhistory			   # Immediately append history instead of overwriting
-#setopt histignorealldups	   # If a new command is a duplicate, remove the older one
-#setopt autocd						     # if only directory path is entered, cd there.
+setopt correct            # Auto correct mistakes
+#setopt extendedglob      # Extended globbing. Allows using regular expressions with *
+setopt nocaseglob         # Case insensitive globbing
+setopt rcexpandparam      # Array expension with parameters
+#setopt nocheckjobs       # Don't warn about running processes when exiting
+setopt numericglobsort    # Sort filenames numerically when it makes sense
+setopt nobeep             # No beep
+setopt appendhistory      # Immediately append history instead of overwriting
+#setopt histignorealldups # If a new command is a duplicate, remove the older one
+#setopt autocd            # if only directory path is entered, cd there.
 
 
 
@@ -63,12 +63,12 @@ bindkey '^[[D'  backward-char                             # Left key
 #bindkey '^[[6~' history-beginning-search-forward          # Page down key
 
 # Navigate words with ctrl+arrow keys
-bindkey '^[Oc' forward-word                              #
+bindkey '^[Oc' forward-word                               #
 bindkey '^[Od' backward-word                              #
 bindkey '^[[1;5D' backward-word                           #
 bindkey '^[[1;5C' forward-word                            #
 bindkey '^H' backward-kill-word                           # delete previous word with ctrl+backspace
-#bindkey '^[[Z' undo                                       # Shift+tab undo last action
+# bindkey '^[[Z' undo                                       # Shift+tab undo last action
 
 # Color man pages
 export LESS_TERMCAP_mb=$'\E[01;32m'
@@ -119,14 +119,70 @@ POWERLEVEL9K_SHOW_CHANGESET=true
 
 
 POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(dir_writable dir vcs)
-POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status background_jobs custom_battery custom_time)
+# POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status background_jobs custom_time)
+POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status background_jobs custom_time)
 POWERLEVEL9K_PROMPT_ADD_NEWLINE=true
 
 # begin p10k stuff
 
 # POWERLEVEL9K_LEGACY_ICON_SPACING=true
 
+
+TYPEWRITTEN_PROMPT_LAYOUT="singleline"
+TYPEWRITTEN_SYMBOL="->"
+TYPEWRITTEN_RELATIVE_PATH="home"
+TYPEWRITTEN_CURSOR="beam"
+TYPEWRITTEN_DISABLE_RETURN_CODE="true"
+
+
+
+SPACESHIP_PROMPT_ORDER=(
+  time          # Time stamps section
+  user          # Username section
+  dir           # Current directory section
+  host          # Hostname section
+  git           # Git section (git_branch + git_status)
+  # hg            # Mercurial section (hg_branch  + hg_status)
+  # package       # Package version
+  # gradle        # Gradle section
+  # maven         # Maven section
+  node          # Node.js section
+  # ruby          # Ruby section
+  # elixir        # Elixir section
+  # xcode         # Xcode section
+  # swift         # Swift section
+  # golang        # Go section
+  # php           # PHP section
+  # rust          # Rust section
+  # haskell       # Haskell Stack section
+  # julia         # Julia section
+  # docker        # Docker section
+  # aws           # Amazon Web Services section
+  # gcloud        # Google Cloud Platform section
+  # venv          # virtualenv section
+  # conda         # conda virtualenv section
+  # pyenv         # Pyenv section
+  # dotnet        # .NET section
+  # ember         # Ember.js section
+  # kubectl       # Kubectl context section
+  # terraform     # Terraform workspace section
+  # ibmcloud      # IBM Cloud section
+  exec_time     # Execution time
+  line_sep      # Line break
+  # battery       # Battery level and status
+  vi_mode       # Vi-mode indicator
+  jobs          # Background jobs indicator
+  exit_code     # Exit code section
+  char          # Prompt character
+)
+
+
 ZSH_THEME="powerlevel10k/powerlevel10k"
+#ZSH_THEME="typewritten"
+ZSH_THEME="spaceship"
+
+
+
 
 
 # Set list of themes to pick from when loading at random

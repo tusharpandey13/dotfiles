@@ -3,8 +3,6 @@
 <documentInfo url="/home/tushar/kdeconnect/Resume Format Sept 2020.pdf">
  <generalInfo>
   <history>
-   <oldPage viewport="0;C2:0.5:0.86022:1"/>
-   <oldPage viewport="1;C2:0.5:-0.249016:1"/>
    <oldPage viewport="0;C2:0.5:0.844638:1"/>
    <oldPage viewport="1;C2:0.5:-0.245079:1"/>
    <oldPage viewport="0;C2:0.5:0.867553:1"/>
@@ -12,11 +10,14 @@
    <oldPage viewport="0;C2:0.5:0.868469:1"/>
    <oldPage viewport="1;C2:0.5:0.0836614:1"/>
    <oldPage viewport="0;C2:0.467717:0.86578:1"/>
-   <current viewport="1;C2:0.501921:0.346116:1"/>
+   <oldPage viewport="1;C2:0.49936:-0.27532:1"/>
+   <oldPage viewport="0;C2:0.5:0.869407:1"/>
+   <oldPage viewport="1;C2:0.49936:-0.274336:1"/>
+   <current viewport="0;C2:0.5:0.226294:1"/>
   </history>
   <views>
    <view name="PageView">
-    <zoom mode="0" value="0.66"/>
+    <zoom value="0.66" mode="0"/>
     <continuous mode="1"/>
     <viewMode mode="0"/>
     <trimMargins value="0"/>

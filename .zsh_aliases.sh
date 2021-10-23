@@ -20,11 +20,11 @@
  alias pmn='sudo pacman' 
  alias mountwin='sudo mount /dev/sda3 /run/media/tushar/OS && sudo mount /dev/sda8 /run/media/tushar/DATA'
  alias umountwin='sudo umount /dev/sda3 && sudo umount /dev/sda8'
-alias code='/usr/bin/code-oss --force-device-scale-factor=1 --ignore-gpu-blocklist --enable-gpu-rasterization --enable-oop-rasterization --unity-launch --no-sandbox -n .'
+ alias code='/usr/bin/code-oss --force-device-scale-factor=1 --ignore-gpu-blocklist --enable-gpu-rasterization --enable-oop-rasterization --unity-launch --no-sandbox -n .'
  alias seed='~/seed.py'
  alias pullhead='git pull origin $(git rev-parse --abbrev-ref HEAD)'
-#alias gitu='gitbackup'
- alias ls="ls_extended --group-directories-first"
+ #alias gitu='gitbackup'
+ alias ls="lsd --group-dirs first"
  alias myip="ifconfig | sed -En 's/127.0.0.1//;s/.*inet (addr:)?(([0-9]*\.){3}[0-9]*).*/\2/p'"
  alias npmi="sudo npm i"
  alias img="gpicview"
@@ -39,8 +39,15 @@ alias code='/usr/bin/code-oss --force-device-scale-factor=1 --ignore-gpu-blockli
  alias rem="notify-send"
  alias downloadsubs="py /home/tushar/download_en_subs.py -d"
  alias backup_dotfiles="sh /home/tushar/backup_dotfiles.sh"
-
+ alias pull="adb-sync -R -n"
+ alias push="adb-sync -n"
+ alias rpi="ssh pi@192.168.1.17"
 # FUNCTIONS
+
+function prepfakecam(){
+	sudo modprobe -r -f v4l2loopback;
+	sudo modprobe v4l2loopback devices=1 video_nr=2 card_label="USB2.0 VGA WebCam" exclusive_caps=1;
+}
 
 function jpgcompress(){
 	convert $1 -quality 50 -resize 1024x "compressed_$1"
@@ -61,6 +68,8 @@ function yttitle(){
 #	curl "$1" -so - | grep -iPo '(?<=<title>)(.*)(?=</title>)' | recode html..ascii;
 youtube-dl "$1" --get-filename;
 }
+
+
 
 
 function gitnewbranch() {
@@ -103,11 +112,11 @@ function bd(){
 }
 
 function coli {
-	g++ -o $1 "$1.cpp" && echo "compiled and linked ./$1";
+	g++ -Wfatal-errors -w -o $1 "$1.cpp" && echo "compiled and linked ./$1";
 }
 
 function coliru {
-	g++ -o $1 "$1.cpp" && ./"$1";
+	g++ -Wfatal-errors -w -o $1 "$1.cpp" && ./"$1";
 }
 
 function b64decode {
@@ -132,8 +141,10 @@ function webcamrecord360 {
 }
 
 function fakewebcam {
-	modprobe -n --first-time v4l2loopback;
-	sudo ffmpeg -ss 4 -stream_loop -1 -re -i $1 -vf format=yuv420p -f v4l2 /dev/video2;
+	#modprobe -n --first-time v4l2loopback;
+	prepfakecam;
+	#sudo ffmpeg -ss 4 -stream_loop -1 -re -i $1 -vf format=yuv420p -f v4l2 /dev/video2;
+	sudo ffmpeg -stream_loop -1 -re -i $1 -vf format=yuv420p -f v4l2 /dev/video2;
 }
 
 function remat {
