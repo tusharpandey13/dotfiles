@@ -5,4 +5,4 @@ MimeType=image/gif;
 Exec=env WINEPREFIX="/home/tushar/.wine" wine start /ProgIDOpen giffile %f
 NoDisplay=true
 StartupNotify=true
-Icon=7596_iexplore.0
+Icon=ECB7_iexplore.0

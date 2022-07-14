@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documentInfo>
+<documentInfo url="/home/tushar/Downloads/nischal-ewaste.pdf">
+ <generalInfo>
+  <history>
+   <oldPage viewport="3;C2:0.499569:0.994552:1"/>
+   <oldPage viewport="4;C2:0.499569:0.00484262:1"/>
+   <oldPage viewport="3;C2:0.499569:0.982446:1"/>
+   <oldPage viewport="4;C2:0.499569:0.990315:1"/>
+   <oldPage viewport="5;C2:0.499569:0.980024:1"/>
+   <oldPage viewport="6;C2:0.499569:0.996368:1"/>
+   <oldPage viewport="7;C2:0.499569:0.00544794:1"/>
+   <oldPage viewport="6;C2:0.499569:1:1"/>
+   <oldPage viewport="7;C2:0.499569:0.0248184:1"/>
+   <oldPage viewport="7;C2:0.499569:0.989709:1"/>
+   <current viewport="8;C2:0.499569:0.515738:1"/>
+  </history>
+  <views>
+   <view name="PageView">
+    <zoom value="0.978748" mode="1"/>
+    <continuous mode="1"/>
+    <viewMode mode="0"/>
+    <trimMargins value="0"/>
+   </view>
+  </views>
+ </generalInfo>
+</documentInfo>

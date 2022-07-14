@@ -5,4 +5,4 @@ MimeType=application/wps-office.doc;
 Exec=env WINEPREFIX="/home/tushar/.wine" wine start /ProgIDOpen rtffile %f
 NoDisplay=true
 StartupNotify=true
-Icon=97C1_wordpad.0
+Icon=3365_wordpad.0

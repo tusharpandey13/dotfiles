@@ -5,4 +5,4 @@ MimeType=text/plain;
 Exec=env WINEPREFIX="/home/tushar/.wine" wine start /ProgIDOpen txtfile %f
 NoDisplay=true
 StartupNotify=true
-Icon=1E64_notepad.0
+Icon=2E40_notepad.0

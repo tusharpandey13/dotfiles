@@ -1,20 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE documentInfo>
-<documentInfo url="/home/tushar/Downloads/doc/Literature_Review_of_Text_detection_from_occluded_natural_scene_images.pdf">
+<documentInfo url="/home/tushar/Downloads/dir/doc/Literature_Review_of_Text_detection_from_occluded_natural_scene_images.pdf">
  <generalInfo>
   <history>
-   <oldPage viewport="0;C2:0.499736:0.942279:1"/>
    <oldPage viewport="1;C2:0.499736:0.683185:1"/>
    <oldPage viewport="2;C2:0.499736:0.0514105:1"/>
    <oldPage viewport="1;C2:0.499736:0.310505:1"/>
    <oldPage viewport="0;C2:0.499736:0.98608:1"/>
    <oldPage viewport="1;C2:0.499736:0.999814:1"/>
    <oldPage viewport="2;C2:0.499736:0.00723831:1"/>
-   <current viewport="2;C2:0.499578:0.292062:1"/>
+   <oldPage viewport="2;C2:0.499578:0.00177725:1"/>
+   <oldPage viewport="1;C2:0.499578:0.00236967:1"/>
+   <oldPage viewport="0;C2:0.499578:1.00296:1"/>
+   <oldPage viewport="2;C2:0.499578:0.0124408:1"/>
+   <current viewport="0;C2:0.499578:0.917062:1"/>
   </history>
   <views>
    <view name="PageView">
-    <zoom value="1" mode="0"/>
+    <zoom mode="0" value="1"/>
     <continuous mode="1"/>
     <viewMode mode="0"/>
     <trimMargins value="0"/>

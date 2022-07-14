@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=2048
+Exec=/opt/google/chrome/google-chrome --profile-directory=Default --app-id=jcjbnkncddbeomhaacaeokhfnefibpde --force-device-scale-factor=1.25
+Icon=chrome-jcjbnkncddbeomhaacaeokhfnefibpde-Default
+StartupWMClass=crx_jcjbnkncddbeomhaacaeokhfnefibpde

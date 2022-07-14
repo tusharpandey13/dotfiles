@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=Google Chrome
-Exec=env WINEPREFIX="/home/tushar/.wine" wine C:\\\\windows\\\\command\\\\start.exe /Unix /home/tushar/.wine/dosdevices/c:/ProgramData/Microsoft/Windows/Start\\ Menu/Programs/Google\\ Chrome.lnk
-Type=Application
-StartupNotify=true
-Comment=Access the Internet
-Path=/home/tushar/.wine/dosdevices/c:/Program Files (x86)/Google/Chrome/Application
-Icon=9A99_chrome.0
-StartupWMClass=chrome.exe

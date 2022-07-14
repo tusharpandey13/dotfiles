@@ -4,7 +4,7 @@ ColorAmount=0
 ColorEffect=0
 ContrastAmount=0.65
 ContrastEffect=1
-IntensityAmount=0.1
+IntensityAmount=0.35000000000000003
 IntensityEffect=2
 
 [ColorEffects:Inactive]
@@ -108,7 +108,7 @@ Name=McMojaveLight
 shadeSortColumn=true
 
 [KDE]
-contrast=4
+contrast=10
 
 [WM]
 activeBackground=245,245,245
